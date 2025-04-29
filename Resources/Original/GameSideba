@@ -1,0 +1,1846 @@
+<GameSidebar>
+	<game name="com.tencent.ig" dpi="true">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="32">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="32">
+		</item>
+		<item id="4" key="Z" vkcode="90" desc="IDS_SIDEBAR_PRONE" keycolor="0xffffffff" desccolor="0xff808193" default="Prone" height="32">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAG" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="66">
+		</item>
+		<item id="7" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKE" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="66">
+		</item>
+		<item id="7" key="6" vkcode="54" desc="IDS_SIDEBAR_MOLOTOV" keycolor="0xffffffff" desccolor="0xff808193" default="Molotov(Stun)" height="66">
+		</item>
+		<item id="8" key="7" vkcode="55" desc="IDS_SIDEBAR_MED" keycolor="0xffffffff" desccolor="0xff808193" default="Med Kit" height="88">
+		</item>
+		<item id="8" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTAID" keycolor="0xffffffff" desccolor="0xff808193" default="First Aid Kit" height="88">
+		</item>
+		<item id="8" key="9" vkcode="57" desc="IDS_SIDEBAR_BANDAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Bandage" height="88">
+		</item>
+		<item id="8" key="0" vkcode="48" desc="IDS_SIDEBAR_PAINKILLER" keycolor="0xffffffff" desccolor="0xff808193" default="Painkiller" height="88">
+		</item>
+		<item id="9" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xff0fffe0" desccolor="0xff808193" default="Key reminder switch" height="48">
+		</item>
+		<item id="10" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="48">
+		</item>
+		<item id="11" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEY" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.pubgmhd" dpi="true">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="35">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="开火" height="35">
+		</item>
+		<item id="1" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="瞄准" height="35">
+		</item>
+		<item id="2" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃 / 翻墙 / 上浮" height="35">
+		</item>
+		<item id="3" key="C" vkcode="67" desc="IDS_SIDEBAR_C" keycolor="0xffffffff" desccolor="0xff808193" default="下蹲/下潜" height="35">
+		</item>
+		<item id="4" key="Z" vkcode="90" desc="IDS_SIDEBAR_PRONE" keycolor="0xffffffff" desccolor="0xff808193" default="卧倒" height="35">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="自由视角" height="35">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="奔跑" height="35">
+		</item>
+		<item id="6" key="=" vkcode="187" desc="IDS_SIDEBAR_EQU" keycolor="0xffffffff" desccolor="0xff808193" default="持续冲刺" height="35">
+		</item>
+		<item id="7" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAG" keycolor="0xffffffff" desccolor="0xff808193" default="手雷" height="55">
+		</item>
+		<item id="7" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKE" keycolor="0xffffffff" desccolor="0xff808193" default="烟雾弹" height="55">
+		</item>
+		<item id="7" key="6" vkcode="54" desc="IDS_SIDEBAR_MOLOTOV" keycolor="0xffffffff" desccolor="0xff808193" default="燃烧瓶（震爆弹）" height="55">
+		</item>
+		<item id="8" key="7" vkcode="55" desc="IDS_SIDEBAR_MED" keycolor="0xffffffff" desccolor="0xff808193" default="医疗箱" height="55">
+		</item>
+		<item id="8" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTAID" keycolor="0xffffffff" desccolor="0xff808193" default="急救包" height="55">
+		</item>
+		<item id="8" key="9" vkcode="57" desc="IDS_SIDEBAR_BANDAGE" keycolor="0xffffffff" desccolor="0xff808193" default="绷带" height="55">
+		</item>
+		<item id="8" key="0" vkcode="48" desc="IDS_SIDEBAR_PAINKILLER" keycolor="0xffffffff" desccolor="0xff808193" default="饮料" height="55">
+		</item>
+		<item id="9" key="T" vkcode="84" desc="IDS_SIDEBAR_T" keycolor="0xffffffff" desccolor="0xff808193" default="语音" height="35">
+		</item>
+		<item id="9" key="Y" vkcode="89" desc="IDS_SIDEBAR_Y" keycolor="0xffffffff" desccolor="0xff808193" default="麦克风" height="35">
+		</item>
+		<item id="10" key="F8" vkcode="119" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xff0fffe0" desccolor="0xff808193" default="键位提醒开关" height="35">
+		</item>
+		<item id="11" key="~" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="鼠标锁定开关" height="35">
+		</item>
+		<item id="12" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEY" keycolor="0xff0fffe0" desccolor="0xff808193" default="智能交互(开门/驾驶/跳伞等)" height="55">
+		</item>
+		<item id="13" key="F1" vkcode="112" desc="IDS_SIDEBAR_F1" keycolor="0xff0fffe0" desccolor="0xff808193" default="快捷消息1" height="35">
+		</item>
+		<item id="13" key="F2" vkcode="113" desc="IDS_SIDEBAR_F2" keycolor="0xff0fffe0" desccolor="0xff808193" default="2" height="35">
+		</item>
+	</game>
+	<game name="com.vng.pubgmobile" dpi="true">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="32">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="32">
+		</item>
+		<item id="4" key="Z" vkcode="90" desc="IDS_SIDEBAR_PRONE" keycolor="0xffffffff" desccolor="0xff808193" default="Prone" height="32">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAG" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="66">
+		</item>
+		<item id="7" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKE" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="66">
+		</item>
+		<item id="7" key="6" vkcode="54" desc="IDS_SIDEBAR_MOLOTOV" keycolor="0xffffffff" desccolor="0xff808193" default="Molotov(Stun)" height="66">
+		</item>
+		<item id="8" key="7" vkcode="55" desc="IDS_SIDEBAR_MED" keycolor="0xffffffff" desccolor="0xff808193" default="Med Kit" height="88">
+		</item>
+		<item id="8" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTAID" keycolor="0xffffffff" desccolor="0xff808193" default="First Aid Kit" height="88">
+		</item>
+		<item id="8" key="9" vkcode="57" desc="IDS_SIDEBAR_BANDAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Bandage" height="88">
+		</item>
+		<item id="8" key="0" vkcode="48" desc="IDS_SIDEBAR_PAINKILLER" keycolor="0xffffffff" desccolor="0xff808193" default="Painkiller" height="88">
+		</item>
+		<item id="9" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xff0fffe0" desccolor="0xff808193" default="Key reminder switch" height="48">
+		</item>
+		<item id="10" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="48">
+		</item>
+		<item id="11" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEY" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.rekoo.pubgm" dpi="true">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="32">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="32">
+		</item>
+		<item id="4" key="Z" vkcode="90" desc="IDS_SIDEBAR_PRONE" keycolor="0xffffffff" desccolor="0xff808193" default="Prone" height="32">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAG" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="66">
+		</item>
+		<item id="7" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKE" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="66">
+		</item>
+		<item id="7" key="6" vkcode="54" desc="IDS_SIDEBAR_MOLOTOV" keycolor="0xffffffff" desccolor="0xff808193" default="Molotov(Stun)" height="66">
+		</item>
+		<item id="8" key="7" vkcode="55" desc="IDS_SIDEBAR_MED" keycolor="0xffffffff" desccolor="0xff808193" default="Med Kit" height="88">
+		</item>
+		<item id="8" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTAID" keycolor="0xffffffff" desccolor="0xff808193" default="First Aid Kit" height="88">
+		</item>
+		<item id="8" key="9" vkcode="57" desc="IDS_SIDEBAR_BANDAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Bandage" height="88">
+		</item>
+		<item id="8" key="0" vkcode="48" desc="IDS_SIDEBAR_PAINKILLER" keycolor="0xffffffff" desccolor="0xff808193" default="Painkiller" height="88">
+		</item>
+		<item id="9" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xff0fffe0" desccolor="0xff808193" default="Key reminder switch" height="48">
+		</item>
+		<item id="10" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="48">
+		</item>
+		<item id="11" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEY" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.dts.freefireth" dpi="false">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="32">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="Jump" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="32">
+		</item>
+		<item id="4" key="Z" vkcode="90" desc="IDS_SIDEBAR_PRONE" keycolor="0xffffffff" desccolor="0xff808193" default="Prone" height="32">
+		</item>
+		<item id="5" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="6" key="R" vkcode="82" desc="IDS_SIDEBAR_RELOAD" keycolor="0xffffffff" desccolor="0xff808193" default="Reload" height="32">
+		</item>
+		<item id="7" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="Map" height="32">
+		</item>
+		<item id="8" key="1" vkcode="49" desc="IDS_SIDEBAR_STR1" keycolor="0xffffffff" desccolor="0xff808193" default="Weapon1" height="66">
+		</item>
+		<item id="8" key="2" vkcode="50" desc="IDS_SIDEBAR_STR2" keycolor="0xffffffff" desccolor="0xff808193" default="Weapon2" height="66">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STR3" keycolor="0xffffffff" desccolor="0xff808193" default="Weapon3" height="66">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_STR4" keycolor="0xffffffff" desccolor="0xff808193" default="Missile" height="32">
+		</item>
+		<item id="9" key="5" vkcode="53" desc="IDS_SIDEBAR_STR5" keycolor="0xffffffff" desccolor="0xff808193" default="First Aid Kit" height="32">
+		</item>
+		<item id="10" key="Tab" vkcode="9" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Package" height="32">
+		</item>
+		<item id="11" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xff0fffe0" desccolor="0xff808193" default="Key reminder switch" height="48">
+		</item>
+		<item id="12" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="48">
+		</item>
+		<item id="13" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEYFF" keycolor="0xff0fffe0" desccolor="0xff808193" default="Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.playmini.miniworld.ow" dpi="false">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Tab" vkcode="9" desc="IDS_SIDEBAR_MOVESWITCH" keycolor="0xffffffff" desccolor="0xff808193" default="Move-Switch" height="32">
+		</item>
+		<item id="2" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="Jump" height="32">
+		</item>
+		<item id="3" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Package" height="32">
+		</item>
+		<item id="4" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="Map" height="32">
+		</item>
+		<item id="5" key="Q" vkcode="81" desc="IDS_SIDEBAR_LEFTPERSPECTIVE" keycolor="0xffffffff" desccolor="0xff808193" default="Left-Perspective" height="70">
+		</item>
+		<item id="6" key="E" vkcode="69" desc="IDS_SIDEBAR_RIGHTPERSPECTIVE" keycolor="0xffffffff" desccolor="0xff808193" default="Right-Perspective" height="70">
+		</item>
+		<item id="7" key="R" vkcode="82" desc="IDS_SIDEBAR_UPPERSPECTIVE" keycolor="0xffffffff" desccolor="0xff808193" default="Up-Perspective" height="70">
+		</item>
+		<item id="8" key="F" vkcode="70" desc="IDS_SIDEBAR_DOWNPERSPECTIVE" keycolor="0xffffffff" desccolor="0xff808193" default="Down-Perspective" height="70">
+		</item>
+		<item id="9" key="1" vkcode="49" desc="IDS_SIDEBAR_INVENTORY1" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory1" height="120">
+		</item>
+		<item id="9" key="2" vkcode="50" desc="IDS_SIDEBAR_INVENTORY2" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory2" height="88">
+		</item>
+		<item id="9" key="3" vkcode="51" desc="IDS_SIDEBAR_INVENTORY3" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory3" height="88">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_INVENTORY4" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory4" height="88">
+		</item>
+		<item id="9" key="5" vkcode="53" desc="IDS_SIDEBAR_INVENTORY5" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory5" height="88">
+		</item>
+		<item id="9" key="6" vkcode="54" desc="IDS_SIDEBAR_INVENTORY6" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory6" height="88">
+		</item>
+		<item id="9" key="7" vkcode="55" desc="IDS_SIDEBAR_INVENTORY7" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory7" height="88">
+		</item>
+		<item id="9" key="8" vkcode="56" desc="IDS_SIDEBAR_INVENTORY8" keycolor="0xffffffff" desccolor="0xff808193" default="Inventory8" height="88">
+		</item>
+	</game>
+	<game name="com.miHoYo.bh3global" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="移动" height="32">
+		</item>
+		<item id="1" key="H" vkcode="72" desc="IDS_SIDEBAR_ROTATEVIEW1" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="B" vkcode="66" desc="IDS_SIDEBAR_ROTATEVIEW2" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="N" vkcode="78" desc="IDS_SIDEBAR_ROTATEVIEW3" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="M" vkcode="77" desc="IDS_SIDEBAR_ROTATEVIEW4" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="2" key="K" vkcode="75" desc="IDS_SIDEBAR_ATTACK" keycolor="0xffffffff" desccolor="0xff808193" default="攻击" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_DODGE" keycolor="0xffffffff" desccolor="0xff808193" default="闪避" height="32">
+		</item>
+		<item id="4" key="J" vkcode="74" desc="IDS_SIDEBAR_ULTIMATE" keycolor="0xffffffff" desccolor="0xff808193" default="必杀技" height="32">
+		</item>
+		<item id="5" key="I" vkcode="73" desc="IDS_SIDEBAR_WEAPON" keycolor="0xffffffff" desccolor="0xff808193" default="武器技" height="32">
+		</item>
+		<item id="6" key="1" vkcode="49" desc="IDS_SIDEBAR_SWITCHVALKYRIE1" keycolor="0xffffffff" desccolor="0xff808193" default="切换女武神" height="58">
+		</item>
+		<item id="6" key="2" vkcode="50" desc="IDS_SIDEBAR_SWITCHVALKYRIE2" keycolor="0xffffffff" desccolor="0xff808193" default="切换女武神" height="58">
+		</item>
+		<item id="7" key="F" vkcode="70" desc="IDS_SIDEBAR_SPECIAL" keycolor="0xffffffff" desccolor="0xff808193" default="场景切换/特殊功能" height="40">
+		</item>
+		<item id="8" key="`" vkcode="192" desc="IDS_SIDEBAR_PAUSE" keycolor="0xffffffff" desccolor="0xff808193" default="暂停/返回" height="32">
+		</item>
+		<item id="9" key="U" vkcode="85" desc="IDS_SIDEBAR_ELFSKILL" keycolor="0xffffffff" desccolor="0xff808193" default="宠物技能" height="32">
+		</item>
+		<item id="10" key="X" vkcode="88" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS1" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+		<item id="10" key="C" vkcode="67" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS2" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+		<item id="10" key="V" vkcode="86" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS3" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+	</game>
+	<game name="com.miHoYo.bh3oversea" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="移动" height="32">
+		</item>
+		<item id="1" key="H" vkcode="72" desc="IDS_SIDEBAR_ROTATEVIEW1" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="B" vkcode="66" desc="IDS_SIDEBAR_ROTATEVIEW2" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="N" vkcode="78" desc="IDS_SIDEBAR_ROTATEVIEW3" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="1" key="M" vkcode="77" desc="IDS_SIDEBAR_ROTATEVIEW4" keycolor="0xffffffff" desccolor="0xff808193" default="视角调整" height="90">
+		</item>
+		<item id="2" key="K" vkcode="75" desc="IDS_SIDEBAR_ATTACK" keycolor="0xffffffff" desccolor="0xff808193" default="攻击" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_DODGE" keycolor="0xffffffff" desccolor="0xff808193" default="闪避" height="32">
+		</item>
+		<item id="4" key="J" vkcode="74" desc="IDS_SIDEBAR_ULTIMATE" keycolor="0xffffffff" desccolor="0xff808193" default="必杀技" height="32">
+		</item>
+		<item id="5" key="I" vkcode="73" desc="IDS_SIDEBAR_WEAPON" keycolor="0xffffffff" desccolor="0xff808193" default="武器技" height="32">
+		</item>
+		<item id="6" key="1" vkcode="49" desc="IDS_SIDEBAR_SWITCHVALKYRIE1" keycolor="0xffffffff" desccolor="0xff808193" default="切换女武神" height="58">
+		</item>
+		<item id="6" key="2" vkcode="50" desc="IDS_SIDEBAR_SWITCHVALKYRIE2" keycolor="0xffffffff" desccolor="0xff808193" default="切换女武神" height="58">
+		</item>
+		<item id="7" key="F" vkcode="70" desc="IDS_SIDEBAR_SPECIAL" keycolor="0xffffffff" desccolor="0xff808193" default="场景切换/特殊功能" height="40">
+		</item>
+		<item id="8" key="`" vkcode="192" desc="IDS_SIDEBAR_PAUSE" keycolor="0xffffffff" desccolor="0xff808193" default="暂停/返回" height="32">
+		</item>
+		<item id="9" key="U" vkcode="85" desc="IDS_SIDEBAR_ELFSKILL" keycolor="0xffffffff" desccolor="0xff808193" default="宠物技能" height="32">
+		</item>
+		<item id="10" key="X" vkcode="88" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS1" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+		<item id="10" key="C" vkcode="67" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS2" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+		<item id="10" key="V" vkcode="86" desc="IDS_SIDEBAR_RHYTHMGAMEKEYS3" keycolor="0xffffffff" desccolor="0xff808193" default="音游玩法按键" height="99">
+		</item>
+	</game>
+	<game name="com.supercell.brawlstars" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="SPACE" vkcode="32" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="32">
+		</item>
+		<item id="2" key="E" vkcode="69" desc="IDS_SIDEBAR_ULTIMATESTARS" keycolor="0xffffffff" desccolor="0xff808193" default="Ultimate" height="32">
+		</item>
+		<item id="3" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_FIRESMART" keycolor="0xff0fffe0" desccolor="0xff808193" default="Fire (Smart Key)" height="32">
+		</item>
+		<item id="4" key="R" vkcode="82" desc="IDS_SIDEBAR_ULTIMATESMART" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ultimate (Smart Key)" height="32">
+		</item>
+	</game>
+	<game name="com.mobile.legends" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.vng.mlbbvn" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.ngame.allstar.eu" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.garena.game.kgid" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.garena.game.kgth" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.garena.game.kgvn" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.garena.game.kgtw" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="40">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_ABILITY1" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="2" key="W" vkcode="87" desc="IDS_SIDEBAR_ABILITY2" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="3" key="E" vkcode="69" desc="IDS_SIDEBAR_ABILITY3" keycolor="0xff0fffe0" desccolor="0xff808193" default="Ability 1" height="32">
+		</item>
+		<item id="4" key="Space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Attack" height="32">
+		</item>
+		<item id="5" key="F" vkcode="70" desc="IDS_SIDEBAR_TALENT" keycolor="0xff0fffe0" desccolor="0xff808193" default="Talent" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_MAP" keycolor="0xff0fffe0" desccolor="0xff808193" default="map" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_MATCHINFO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Match Info" height="32">
+		</item>
+		<item id="8" key="G" vkcode="71" desc="IDS_SIDEBAR_CAMERA" keycolor="0xff0fffe0" desccolor="0xff808193" default="Camera" height="32">
+		</item>
+		<item id="9" key="D" vkcode="68" desc="IDS_SIDEBAR_RESTOREHP" keycolor="0xffffffff" desccolor="0xff808193" default="Restore HP" height="32">
+		</item>
+		<item id="10" key="B" vkcode="66" desc="IDS_SIDEBAR_RECALL" keycolor="0xffffffff" desccolor="0xff808193" default="Recall" height="32">
+		</item>
+		<item id="11" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT" keycolor="0xffffffff" desccolor="0xff808193" default="Use Equipment" height="32">
+		</item>
+		<item id="12" key="4" vkcode="52" desc="IDS_SIDEBAR_PURCHASEITEM1" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item1" height="66">
+		</item>
+		<item id="12" key="5" vkcode="53" desc="IDS_SIDEBAR_PURCHASEITEM2" keycolor="0xffffffff" desccolor="0xff808193" default="Purchase Item2" height="66">
+		</item>
+	</game>
+	<game name="com.netease.lztgglobal" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="Mouse lock switch" height="52">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="2" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="44">
+		</item>
+		<item id="3" key="Q" vkcode="81" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="32">
+		</item>
+		<item id="5" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_ROLL" keycolor="0xffffffff" desccolor="0xff808193" default="Roll" height="32">
+		</item>
+		<item id="6" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="55">
+		</item>
+		<item id="7" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="8" key="R" vkcode="82" desc="IDS_SIDEBAR_RELOAD" keycolor="0xffffffff" desccolor="0xff808193" default="Reload" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_INTEGRATIONKEY" keycolor="0xffffffff" desccolor="0xff808193" default="IntegrationKey" height="48">
+		</item>
+		<item id="10" key="F" vkcode="70" desc="IDS_SIDEBAR_PICKUP" keycolor="0xffffffff" desccolor="0xff808193" default="Pick up" height="40">
+		</item>
+		<item id="10" key="E" vkcode="69" desc="IDS_SIDEBAR_PICKUP" keycolor="0xffffffff" desccolor="0xff808193" default="Pick up" height="40">
+		</item>
+		<item id="11" key="Tab" vkcode="9" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Package" height="32">
+		</item>
+		<item id="12" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="13" key="3" vkcode="51" desc="IDS_SIDEBAR_BANDAGE" keycolor="0xffffffff" desccolor="0xff808193" default="Bandage" height="40">
+		</item>
+		<item id="13" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAG" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="40">
+		</item>
+	</game>
+	<game name="com.tencent.yoozoo.got.wintercoming" dpi="flase">
+		<item id="0" key="`" vkcode="192" desc="IDS_SIDEBAR_Lordsattribute" keycolor="0xffffffff" desccolor="0xff808193" default="领主属性" height="32">
+		</item>
+		<item id="1" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="2" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="3" key="1" vkcode="49" desc="IDS_SIDEBAR_commander" keycolor="0xffffffff" desccolor="0xff808193" default="指挥官" height="32">
+		</item>
+		<item id="4" key="2" vkcode="50" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="5" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.xyjgx.lx" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="3" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="4" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="5" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="6" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="7" key="N" vkcode="78" desc="IDS_SIDEBAR_Friend" keycolor="0xffffffff" desccolor="0xff808193" default="好友" height="32">
+		</item>
+		<item id="8" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+		<item id="9" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="10" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="11" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="12" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="13" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="14" key="L" vkcode="76" desc="IDS_SIDEBAR_Skills5" keycolor="0xffffffff" desccolor="0xff808193" default="技能5" height="32">
+		</item>
+		<item id="15" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="16" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.dtszjkhd" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="3" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="4" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="5" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="6" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+		<item id="8" key="1" vkcode="49" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="9" key="2" vkcode="50" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="10" key="3" vkcode="51" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="11" key="4" vkcode="52" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="12" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="13" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+	</game>
+	<game name="com.tencent.lzhx" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普通攻击" height="32">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="鼠标锁定开关" height="32">
+		</item>
+		<item id="3" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="4" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="5" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="6" key="F" vkcode="70" desc="IDS_SIDEBAR_interactive" keycolor="0xffffffff" desccolor="0xff808193" default="交互" height="32">
+		</item>
+		<item id="7" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="8" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_auxiliary" keycolor="0xffffffff" desccolor="0xff808193" default="辅助战斗" height="32">
+		</item>
+		<item id="11" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+		<item id="12" key="1" vkcode="49" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="13" key="2" vkcode="50" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="14" key="3" vkcode="51" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="15" key="4" vkcode="52" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="16" key="5" vkcode="53" desc="IDS_SIDEBAR_Skill switching" keycolor="0xffffffff" desccolor="0xff808193" default="技能切换" height="32">
+		</item>
+		<item id="17" key="Z" vkcode="90" desc="IDS_SIDEBAR_special Skills" keycolor="0xffffffff" desccolor="0xff808193" default="特殊技" height="32">
+		</item>
+		<item id="18" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="19" key="Shift" vkcode="16" desc="IDS_SIDEBAR_dodge" keycolor="0xffffffff" desccolor="0xff808193" default="闪避" height="32">
+		</item>
+		<item id="20" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="22" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.tldqk" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="3" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="4" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="5" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="6" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="7" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="8" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="10" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="11" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="12" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="13" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.af" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="鼠标锁定开关" height="32">
+		</item>
+		<item id="2" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="3" key="Tab" vkcode="9" desc="IDS_SIDEBAR_result1" keycolor="0xffffffff" desccolor="0xff808193" default="战绩/切换角色" height="32">
+		</item>
+		<item id="4" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="5" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="开火" height="32">
+		</item>
+		<item id="6" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="7" key="1" vkcode="49" desc="IDS_SIDEBAR_ULTIMATESTARS" keycolor="0xffffffff" desccolor="0xff808193" default="大招" height="32">
+		</item>
+		<item id="8" key="2" vkcode="50" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="9" key="3" vkcode="51" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="10" key="Q" vkcode="81" desc="IDS_SIDEBAR_cancle" keycolor="0xffffffff" desccolor="0xff808193" default="取消技能" height="32">
+		</item>
+		<item id="11" key="R" vkcode="82" desc="IDS_SIDEBAR_reload" keycolor="0xffffffff" desccolor="0xff808193" default="装弹" height="32">
+		</item>
+		<item id="12" key="E" vkcode="69" desc="IDS_SIDEBAR_special Skills" keycolor="0xffffffff" desccolor="0xff808193" default="特殊技" height="32">
+		</item>
+		<item id="13" key="F" vkcode="70" desc="IDS_SIDEBAR_SMARTKEY1" keycolor="0xffffffff" desccolor="0xff808193" default="智能交互(开箱/跳伞/夺取奖杯/拆/装炸弹等)" height="64">
+		</item>
+		<item id="14" key="T" vkcode="84" desc="IDS_SIDEBAR_abandon" keycolor="0xffffffff" desccolor="0xff808193" default="丢弃炸弹" height="32">
+		</item>
+		<item id="15" key="V" vkcode="86" desc="IDS_SIDEBAR_Save" keycolor="0xffffffff" desccolor="0xff808193" default="救人" height="32">
+		</item>
+		<item id="16" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.xiaoshudian.tx" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="3" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="4" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="5" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="6" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="7" key="N" vkcode="78" desc="IDS_SIDEBAR_Friend" keycolor="0xffffffff" desccolor="0xff808193" default="好友" height="32">
+		</item>
+		<item id="8" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="10" key="R" vkcode="82" desc="IDS_SIDEBAR_mounts" keycolor="0xffffffff" desccolor="0xff808193" default="坐骑" height="32">
+		</item>
+		<item id="11" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="12" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="13" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="14" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="15" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="16" key="H" vkcode="72" desc="IDS_SIDEBAR_Skills5" keycolor="0xffffffff" desccolor="0xff808193" default="技能5" height="32">
+		</item>
+		<item id="17" key="Space" vkcode="32" desc="IDS_SIDEBAR_special Skills" keycolor="0xffffffff" desccolor="0xff808193" default="特殊技" height="32">
+		</item>
+		<item id="18" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.mlsgzmwz" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="3" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="4" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="5" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="6" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="7" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="8" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="9" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="10" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="11" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.nn4" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="1" vkcode="49" desc="IDS_SIDEBAR_design" keycolor="0xffffffff" desccolor="0xff808193" default="设计中心" height="32">
+		</item>
+		<item id="3" key="2" vkcode="50" desc="IDS_SIDEBAR_free" keycolor="0xffffffff" desccolor="0xff808193" default="自由换装" height="32">
+		</item>
+		<item id="4" key="3" vkcode="51" desc="IDS_SIDEBAR_heart" keycolor="0xffffffff" desccolor="0xff808193" default="心之门" height="32">
+		</item>
+		<item id="5" key="4" vkcode="52" desc="IDS_SIDEBAR_train" keycolor="0xffffffff" desccolor="0xff808193" default="凝练馆" height="32">
+		</item>
+		<item id="6" key="space" vkcode="32" desc="IDS_SIDEBAR_begin" keycolor="0xffffffff" desccolor="0xff808193" default="开始旅程" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.LEGOCUBE" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="L" vkcode="76" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="3" key="T" vkcode="84" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="4" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="5" key="R" vkcode="82" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="开火" height="32">
+		</item>
+		<item id="6" key="space" vkcode="32" desc="IDS_SIDEBAR_ATTACK" keycolor="0xffffffff" desccolor="0xff808193" default="攻击" height="32">
+		</item>
+		<item id="7" key="alt" vkcode="18" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="8" key="F" vkcode="70" desc="IDS_SIDEBAR_close" keycolor="0xffffffff" desccolor="0xff808193" default="武器技能" height="32">
+		</item>
+		<item id="9" key="ctrl" vkcode="17" desc="IDS_SIDEBAR_speed" keycolor="0xffffffff" desccolor="0xff808193" default="加速" height="32">
+		</item>
+		<item id="10" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="瞄准" height="32">
+		</item>
+		<item id="11" key="Shift" vkcode="16" desc="IDS_SIDEBAR_secure" keycolor="0xffffffff" desccolor="0xff808193" default="安全移动" height="32">
+		</item>
+		<item id="12" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="13" key="K" vkcode="75" desc="IDS_SIDEBAR_draw" keycolor="0xffffffff" desccolor="0xff808193" default="图纸" height="32">
+		</item>
+		<item id="14" key="V" vkcode="86" desc="IDS_SIDEBAR_adjust" keycolor="0xffffffff" desccolor="0xff808193" default="第一/第三视角切换" height="32">
+		</item>
+		<item id="15" key="Esc" vkcode="27" desc="IDS_SIDEBAR_setting" keycolor="0xffffffff" desccolor="0xff808193" default="设置" height="32">
+		</item>
+		<item id="16" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.zjzk" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="T" vkcode="84" desc="IDS_SIDEBAR_information" keycolor="0xffffffff" desccolor="0xff808193" default="个人信息" height="32">
+		</item>
+		<item id="2" key="Q" vkcode="81" desc="IDS_SIDEBAR_honjin" keycolor="0xffffffff" desccolor="0xff808193" default="本阵" height="32">
+		</item>
+		<item id="3" key="W" vkcode="87" desc="IDS_SIDEBAR_fight" keycolor="0xffffffff" desccolor="0xff808193" default="出战" height="32">
+		</item>
+		<item id="4" key="1" vkcode="49" desc="IDS_SIDEBAR_warrior" keycolor="0xffffffff" desccolor="0xff808193" default="武士" height="32">
+		</item>
+		<item id="5" key="2" vkcode="50" desc="IDS_SIDEBAR_fetter" keycolor="0xffffffff" desccolor="0xff808193" default="羁绊" height="32">
+		</item>
+		<item id="6" key="3" vkcode="51" desc="IDS_SIDEBAR_god" keycolor="0xffffffff" desccolor="0xff808193" default="神降" height="32">
+		</item>
+		<item id="7" key="4" vkcode="52" desc="IDS_SIDEBAR_shop" keycolor="0xffffffff" desccolor="0xff808193" default="商店" height="32">
+		</item>
+		<item id="8" key="5" vkcode="53" desc="IDS_SIDEBAR_warehouse" keycolor="0xffffffff" desccolor="0xff808193" default="仓库" height="32">
+		</item>
+		<item id="9" key="R" vkcode="82" desc="IDS_SIDEBAR_full" keycolor="0xffffffff" desccolor="0xff808193" default="全屏" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.psycho100" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_information" keycolor="0xffffffff" desccolor="0xff808193" default="个人信息" height="32">
+		</item>
+		<item id="2" key="1" vkcode="49" desc="IDS_SIDEBAR_relax" keycolor="0xffffffff" desccolor="0xff808193" default="休闲" height="32">
+		</item>
+		<item id="3" key="2" vkcode="50" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="4" key="3" vkcode="51" desc="IDS_SIDEBAR_rescruit" keycolor="0xffffffff" desccolor="0xff808193" default="招募" height="32">
+		</item>
+		<item id="5" key="4" vkcode="52" desc="IDS_SIDEBAR_partner" keycolor="0xffffffff" desccolor="0xff808193" default="伙伴" height="32">
+		</item>
+		<item id="6" key="5" vkcode="53" desc="IDS_SIDEBAR_challenge" keycolor="0xffffffff" desccolor="0xff808193" default="挑战" height="32">
+		</item>
+		<item id="7" key="G" vkcode="71" desc="IDS_SIDEBAR_explore" keycolor="0xffffffff" desccolor="0xff808193" default="探索" height="32">
+		</item>
+		<item id="8" key="N" vkcode="78" desc="IDS_SIDEBAR_friend" keycolor="0xffffffff" desccolor="0xff808193" default="好友" height="32">
+		</item>
+		<item id="9" key="V" vkcode="86" desc="IDS_SIDEBAR_mail" keycolor="0xffffffff" desccolor="0xff808193" default="邮件" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.ajztmgajzt" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="3" key="Y" vkcode="89" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="4" key="T" vkcode="84" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="5" key="L" vkcode="76" desc="IDS_SIDEBAR_stronger" keycolor="0xffffffff" desccolor="0xff808193" default="变强" height="32">
+		</item>
+		<item id="6" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="7" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="8" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="10" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="11" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="12" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="13" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.smhxleniu" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="3" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="4" key="T" vkcode="84" desc="IDS_SIDEBAR_Team" keycolor="0xffffffff" desccolor="0xff808193" default="组队" height="32">
+		</item>
+		<item id="5" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="6" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="7" key="N" vkcode="78" desc="IDS_SIDEBAR_Friend" keycolor="0xffffffff" desccolor="0xff808193" default="好友" height="32">
+		</item>
+		<item id="8" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="9" key="G" vkcode="71" desc="IDS_SIDEBAR_Hangup" keycolor="0xffffffff" desccolor="0xff808193" default="挂机" height="32">
+		</item>
+		<item id="10" key="R" vkcode="82" desc="IDS_SIDEBAR_mounts" keycolor="0xffffffff" desccolor="0xff808193" default="坐骑" height="32">
+		</item>
+		<item id="11" key="K" vkcode="75" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普攻" height="32">
+		</item>
+		<item id="12" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="13" key="I" vkcode="73" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="14" key="O" vkcode="79" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="15" key="P" vkcode="80" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="16" key="H" vkcode="72" desc="IDS_SIDEBAR_Skills5" keycolor="0xffffffff" desccolor="0xff808193" default="技能5" height="32">
+		</item>
+		<item id="17" key="Space" vkcode="32" desc="IDS_SIDEBAR_special Skills" keycolor="0xffffffff" desccolor="0xff808193" default="特殊技" height="32">
+		</item>
+		<item id="18" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.feishengsg" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="32">
+		</item>
+		<item id="1" key="`" vkcode="192" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色属性" height="32">
+		</item>
+		<item id="2" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="3" key="V" vkcode="86" desc="IDS_SIDEBAR_mail" keycolor="0xffffffff" desccolor="0xff808193" default="邮件" height="32">
+		</item>
+		<item id="4" key="Enter" vkcode="13" desc="IDS_SIDEBAR_Chat" keycolor="0xffffffff" desccolor="0xff808193" default="聊天" height="32">
+		</item>
+		<item id="5" key="1" vkcode="49" desc="IDS_SIDEBAR_general" keycolor="0xffffffff" desccolor="0xff808193" default="武将" height="32">
+		</item>
+		<item id="6" key="2" vkcode="50" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="7" key="3" vkcode="51" desc="IDS_SIDEBAR_troops" keycolor="0xffffffff" desccolor="0xff808193" default="部队" height="32">
+		</item>
+		<item id="8" key="4" vkcode="52" desc="IDS_SIDEBAR_tavren" keycolor="0xffffffff" desccolor="0xff808193" default="酒馆" height="32">
+		</item>
+		<item id="9" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="10" key="Space" vkcode="32" desc="IDS_SIDEBAR_battleground" keycolor="0xffffffff" desccolor="0xff808193" default="战场" height="32">
+		</item>
+	</game>
+	<game name="com.activision.callofduty.shooter" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="46">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="60">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMPCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="40">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCHCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="72">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOKCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BOWCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Cancel Bow Draw" height="32">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STUNCOD" keycolor="0xffffffff" desccolor="0xff808193" default="HemostaticGel" height="32">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAGCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="60">
+		</item>
+		<item id="10" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="44">
+		</item>
+		<item id="11" key="6" vkcode="54" desc="IDS_SIDEBAR_DETCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Detonation" height="46">
+		</item>
+		<item id="12" key="7" vkcode="55" desc="IDS_SIDEBAR_HEMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Gas" height="60">
+		</item>
+		<item id="12" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="First" height="60">
+		</item>
+		<item id="12" key="9" vkcode="57" desc="IDS_SIDEBAR_ANACOD" keycolor="0xffffffff" desccolor="0xff808193" default="Analgesic" height="60">
+		</item>
+		<item id="13" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="14" key="F" vkcode="70" desc="IDS_SIDEBAR_FCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.garena.game.codm" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="46">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="60">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMPCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="40">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCHCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="72">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOKCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BOWCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Cancel Bow Draw" height="32">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STUNCOD" keycolor="0xffffffff" desccolor="0xff808193" default="HemostaticGel" height="32">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAGCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="60">
+		</item>
+		<item id="10" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="44">
+		</item>
+		<item id="11" key="6" vkcode="54" desc="IDS_SIDEBAR_DETCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Detonation" height="46">
+		</item>
+		<item id="12" key="7" vkcode="55" desc="IDS_SIDEBAR_HEMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Gas" height="60">
+		</item>
+		<item id="12" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="First" height="60">
+		</item>
+		<item id="12" key="9" vkcode="57" desc="IDS_SIDEBAR_ANACOD" keycolor="0xffffffff" desccolor="0xff808193" default="Analgesic" height="60">
+		</item>
+		<item id="13" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="14" key="F" vkcode="70" desc="IDS_SIDEBAR_FCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.kr.codm" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="46">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="60">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMPCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="40">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCHCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="72">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOKCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BOWCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Cancel Bow Draw" height="32">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STUNCOD" keycolor="0xffffffff" desccolor="0xff808193" default="HemostaticGel" height="32">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAGCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="60">
+		</item>
+		<item id="10" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="44">
+		</item>
+		<item id="11" key="6" vkcode="54" desc="IDS_SIDEBAR_DETCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Detonation" height="46">
+		</item>
+		<item id="12" key="7" vkcode="55" desc="IDS_SIDEBAR_HEMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Gas" height="60">
+		</item>
+		<item id="12" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="First" height="60">
+		</item>
+		<item id="12" key="9" vkcode="57" desc="IDS_SIDEBAR_ANACOD" keycolor="0xffffffff" desccolor="0xff808193" default="Analgesic" height="60">
+		</item>
+		<item id="13" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="14" key="F" vkcode="70" desc="IDS_SIDEBAR_FCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.vng.codmvn" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="46">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="60">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMPCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="40">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCHCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="72">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOKCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BOWCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Cancel Bow Draw" height="32">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STUNCOD" keycolor="0xffffffff" desccolor="0xff808193" default="HemostaticGel" height="32">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAGCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="60">
+		</item>
+		<item id="10" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="44">
+		</item>
+		<item id="11" key="6" vkcode="54" desc="IDS_SIDEBAR_DETCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Detonation" height="46">
+		</item>
+		<item id="12" key="7" vkcode="55" desc="IDS_SIDEBAR_HEMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Gas" height="60">
+		</item>
+		<item id="12" key="8" vkcode="56" desc="IDS_SIDEBAR_FIRSTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="First" height="60">
+		</item>
+		<item id="12" key="9" vkcode="57" desc="IDS_SIDEBAR_ANACOD" keycolor="0xffffffff" desccolor="0xff808193" default="Analgesic" height="60">
+		</item>
+		<item id="13" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="14" key="F" vkcode="70" desc="IDS_SIDEBAR_FCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.cod" dpi="flase">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Fire" height="46">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIMCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Aim" height="60">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMPCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Vault / Up" height="40">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_CROUCHCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Crouch" height="72">
+		</item>
+		<item id="5" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOKCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Freelook" height="32">
+		</item>
+		<item id="6" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFTCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Sprint" height="32">
+		</item>
+		<item id="7" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BOWCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Cancel Bow Draw" height="32">
+		</item>
+		<item id="8" key="3" vkcode="51" desc="IDS_SIDEBAR_STUNCOD" keycolor="0xffffffff" desccolor="0xff808193" default="HemostaticGel" height="32">
+		</item>
+		<item id="9" key="4" vkcode="52" desc="IDS_SIDEBAR_FRAGCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Frag Grenade" height="60">
+		</item>
+		<item id="10" key="5" vkcode="53" desc="IDS_SIDEBAR_SMOKECOD" keycolor="0xffffffff" desccolor="0xff808193" default="Smoke" height="44">
+		</item>
+		<item id="11" key="6" vkcode="54" desc="IDS_SIDEBAR_DETCOD" keycolor="0xffffffff" desccolor="0xff808193" default="Detonation" height="46">
+		</item>
+		<item id="12" key="G" vkcode="71" desc="IDS_SIDEBAR_Mix" keycolor="0xffffffff" desccolor="0xff808193" default="止血凝胶/急救包/止痛针/护甲板" height="60">
+		</item>
+		<item id="13" key="`" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="13" key="ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCKCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="40">
+		</item>
+		<item id="14" key="F" vkcode="70" desc="IDS_SIDEBAR_FCOD" keycolor="0xff0fffe0" desccolor="0xff808193" default="Open doors / Drive / Pick up / Parachute / Equipment / ..." height="88">
+		</item>
+	</game>
+	<game name="com.tencent.fvb" dpi="flase">
+		<item id="10" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="11" key="ESC" vkcode="27" desc="IDS_SIDEBAR_PAUSE1" keycolor="0xffffffff" desccolor="0xff808193" default="暂停" height="32">
+		</item>
+		<item id="12" key="Q" vkcode="81" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="13" key="W" vkcode="87" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="14" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="鼠标锁定开关" height="32">
+		</item>
+		<item id="20" key="" vkcode="" desc="IDS_SIDEBAR_PAUSE12" keycolor="0xffffffff" desccolor="0xff808193" default="暂停" height="90">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.gqdfzz" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_ATTACK1" keycolor="0xffffffff" desccolor="0xff808193" default="普通攻击A" height="32">
+		</item>
+		<item id="3" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_ATTACK2" keycolor="0xffffffff" desccolor="0xff808193" default="普通攻击B" height="32">
+		</item>
+		<item id="4" key="Tab" vkcode="9" desc="IDS_SIDEBAR_Target" keycolor="0xffffffff" desccolor="0xff808193" default="切换目标" height="32">
+		</item>
+		<item id="5" key="Shift" vkcode="16" desc="IDS_SIDEBAR_DODGE" keycolor="0xffffffff" desccolor="0xff808193" default="闪避" height="32">
+		</item>
+		<item id="6" key="Space" vkcode="32" desc="IDS_SIDEBAR_Jump1" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="7" key="Q" vkcode="81" desc="IDS_SIDEBAR_GUN" keycolor="0xffffffff" desccolor="0xff808193" default="开枪" height="32">
+		</item>
+		<item id="8" key="F" vkcode="70" desc="IDS_SIDEBAR_interactive" keycolor="0xffffffff" desccolor="0xff808193" default="交互" height="32">
+		</item>
+		<item id="9" key="R" vkcode="82" desc="IDS_SIDEBAR_Transfer" keycolor="0xffffffff" desccolor="0xff808193" default="变身" height="32">
+		</item>
+		<item id="10" key="Alt" vkcode="18" desc="IDS_SIDEBAR_LOCK" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="锁定/解锁鼠标（战斗时锁定鼠标体验更佳）" height="60">
+		</item>
+		<item id="12" key="" vkcode="" desc="IDS_SIDEBAR_choise" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="可在右上方[键位设置]中切换智能键位模式" height="60">
+		</item>
+	</game>
+	<game name="com.ea.gp.apexlegendsmobilefps" dpi="true">
+		<item id="0" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="Move" height="32">
+		</item>
+		<item id="1" key="Left-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE1" keycolor="0xffffffff" desccolor="0xff808193" default="Fire / Melee Attack" height="58">
+		</item>
+		<item id="2" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM1" keycolor="0xffffffff" desccolor="0xff808193" default="Aim / Sight" height="48">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP2" keycolor="0xffffffff" desccolor="0xff808193" default="Jump / Climb" height="48">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_SQUAT" keycolor="0xffffffff" desccolor="0xff808193" default="Squat / Slide" height="53">
+		</item>
+		<item id="5" key="R" vkcode="82" desc="IDS_SIDEBAR_RELOAD" keycolor="0xffffffff" desccolor="0xff808193" default="Reload" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="Free Perspective" height="48">
+		</item>
+		<item id="7" key="Shift" vkcode="16" desc="IDS_SIDEBAR_SHIFT" keycolor="0xffffffff" desccolor="0xff808193" default="Run" height="32">
+		</item>
+		<item id="8" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xff0fffe0" desccolor="0xff808193" default="Mouse lock switch" height="48">
+		</item>
+		<item id="9" key="E" vkcode="69" desc="IDS_SIDEBAR_SMART" keycolor="0xffffffff" desccolor="0xff808193" default="Smart Interaction (open pickup list/open death box/open or close door/parachute etc.)" height="198">
+		</item>
+		<item id="10" key="Tab" vkcode="9" desc="IDS_SIDEBAR_BACK" keycolor="0xffffffff" desccolor="0xff808193" default="Backpack" height="32">
+		</item>
+		<item id="11" key="Q" vkcode="81" desc="IDS_SIDEBAR_TACTICAL" keycolor="0xffffffff" desccolor="0xff808193" default="Tactical Skill" height="48">
+		</item>
+		<item id="12" key="Z" vkcode="90" desc="IDS_SIDEBAR_UITIMATE" keycolor="0xffffffff" desccolor="0xff808193" default="Ultimate Skill" height="48">
+		</item>
+		<item id="13" key="X" vkcode="88" desc="IDS_SIDEBAR_MARK" keycolor="0xffffffff" desccolor="0xff808193" default="Mark" height="32">
+		</item>
+		<item id="14" key="Capslock" vkcode="20" desc="IDS_SIDEBAR_SWITCH" keycolor="0xffffffff" desccolor="0xff808193" default="Switch Perspectives" height="48">
+		</item>
+		<item id="15" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="Open Minimap" height="32">
+		</item>
+		<item id="16" key="G" vkcode="71" desc="IDS_SIDEBAR_GRENADE" keycolor="0xff0fffe0" desccolor="0xff808193" default="Equip Grenade" height="48">
+		</item>
+		<item id="17" key="H" vkcode="72" desc="IDS_SIDEBAR_MEDICAL" keycolor="0xff0fffe0" desccolor="0xff808193" default="Use Medical Item" height="58">
+		</item>
+		<item id="18" key="T" vkcode="84" desc="IDS_SIDEBAR_MICRO" keycolor="0xff0fffe0" desccolor="0xff808193" default="Use Microphone" height="48">
+		</item>
+		<item id="19" key="F1" vkcode="112" desc="IDS_SIDEBAR_EMOJI" keycolor="0xff0fffe0" desccolor="0xff808193" default="Use Emoji Button" height="58">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.g67" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="1" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_MOVE" keycolor="0xffffffff" desccolor="0xff808193" default="控制人物移动" height="32">
+		</item>
+		<item id="2" key="1" vkcode="49" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="3" key="2" vkcode="50" desc="IDS_SIDEBAR_Skills2" keycolor="0xffffffff" desccolor="0xff808193" default="技能2" height="32">
+		</item>
+		<item id="4" key="3" vkcode="51" desc="IDS_SIDEBAR_Skills3" keycolor="0xffffffff" desccolor="0xff808193" default="技能3" height="32">
+		</item>
+		<item id="5" key="4" vkcode="52" desc="IDS_SIDEBAR_Skills4" keycolor="0xffffffff" desccolor="0xff808193" default="技能4" height="32">
+		</item>
+		<item id="6" key="Q" vkcode="81" desc="IDS_SIDEBAR_Medicine" keycolor="0xffffffff" desccolor="0xff808193" default="吃药" height="32">
+		</item>
+		<item id="7" key="G" vkcode="71" desc="IDS_SIDEBAR_Skills5" keycolor="0xffffffff" desccolor="0xff808193" default="神威技" height="32">
+		</item>
+		<item id="8" key="空格" vkcode="32" desc="IDS_SIDEBAR_Attack" keycolor="0xffffffff" desccolor="0xff808193" default="普通攻击" height="32">
+		</item>
+		<item id="9" key="F" vkcode="70" desc="IDS_SIDEBAR_interactive" keycolor="0xffffffff" desccolor="0xff808193" default="交互" height="32">
+		</item>
+		<item id="10" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="11" key="ESC" vkcode="27" desc="IDS_SIDEBAR_Menu" keycolor="0xffffffff" desccolor="0xff808193" default="菜单" height="32">
+		</item>
+		<item id="12" key="" vkcode="" desc="IDS_SIDEBAR_choise1" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="可在右上方[键位设置]中切换WASD行走模式" height="60">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.party" dpi="flase">
+		<item id="0" key="F1" vkcode="112" desc="IDS_SIDEBAR_KEYREMIND" keycolor="0xffffffff" desccolor="0xff808193" default="键位提醒开关" height="40">
+		</item>
+		<item id="1" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE1" keycolor="0xffffffff" desccolor="0xff808193" default="角色移动" height="38">
+		</item>
+		<item id="2" key="Space" vkcode="32" desc="IDS_SIDEBAR_Jump1" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="3" key="Shift" vkcode="16" desc="IDS_SIDEBAR_Roll" keycolor="0xffffffff" desccolor="0xff808193" default="翻滚" height="32">
+		</item>
+		<item id="4" key="ctrl" vkcode="17" desc="IDS_SIDEBAR_Sprint" keycolor="0xffffffff" desccolor="0xff808193" default="冲刺" height="32">
+		</item>
+		<item id="5" key="Q" vkcode="81" desc="IDS_SIDEBAR_Item" keycolor="0xffffffff" desccolor="0xff808193" default="使用道具" height="32">
+		</item>
+		<item id="6" key="E" vkcode="69" desc="IDS_SIDEBAR_Skills1" keycolor="0xffffffff" desccolor="0xff808193" default="技能1" height="32">
+		</item>
+		<item id="7" key="`" vkcode="192" desc="IDS_SIDEBAR_LOCK1" keycolor="0xffffffff" desccolor="0xff808193" default="锁定/解锁视角" height="32">
+		</item>
+		<item id="8" key="" vkcode="" desc="IDS_SIDEBAR_Change" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="您可在[设置]中切换高帧率模式，体验更佳~" height="60">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.xtlbb" dpi="flase">
+		<item id="0" key="" vkcode="" desc="IDS_SIDEBAR_Change1" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="您可在游戏[设置]中自定义自己的键位" height="60">
+		</item>
+		<item id="1" key="Q" vkcode="81" desc="IDS_SIDEBAR_Medicine1" keycolor="0xffffffff" desccolor="0xff808193" default="血药" height="32">
+		</item>
+		<item id="2" key="E" vkcode="69" desc="IDS_SIDEBAR_Medicine2" keycolor="0xffffffff" desccolor="0xff808193" default="蓝药" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_Jump3" keycolor="0xffffffff" desccolor="0xff808193" default="轻功" height="32">
+		</item>
+		<item id="4" key="Shift" vkcode="16" desc="IDS_SIDEBAR_Roll1" keycolor="0xffffffff" desccolor="0xff808193" default="闪躲" height="32">
+		</item>
+		<item id="5" key="R" vkcode="82" desc="IDS_SIDEBAR_RELOAD1" keycolor="0xffffffff" desccolor="0xff808193" default="暗器" height="32">
+		</item>
+		<item id="6" key="Z" vkcode="90" desc="IDS_SIDEBAR_UITIMATE1" keycolor="0xffffffff" desccolor="0xff808193" default="下坠" height="32">
+		</item>
+		<item id="7" key="V" vkcode="86" desc="IDS_SIDEBAR_USEEQUIPMENT1" keycolor="0xffffffff" desccolor="0xff808193" default="切镜头" height="32">
+		</item>
+		<item id="8" key="F8" vkcode="119" desc="IDS_SIDEBAR_CAR" keycolor="0xffffffff" desccolor="0xff808193" default="坐骑" height="32">
+		</item>
+		<item id="9" key="WASD" vkcode="87" desc="IDS_SIDEBAR_MOVE1" keycolor="0xff0fffe0" desccolor="0xff0fffe0" default="角色移动" height="32">
+		</item>
+		<item id="10" key="X" vkcode="88" desc="IDS_SIDEBAR_special Skills" keycolor="0xffffffff" desccolor="0xff808193" default="特殊技" height="32">
+		</item>
+		<item id="11" key="C" vkcode="67" desc="IDS_SIDEBAR_Skills6" keycolor="0xffffffff" desccolor="0xff808193" default="珍兽技" height="32">
+		</item>
+		<item id="12" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="13" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="14" key="T" vkcode="84" desc="IDS_SIDEBAR_TEAE" keycolor="0xffffffff" desccolor="0xff808193" default="队伍" height="32">
+		</item>
+		<item id="15" key="Y" vkcode="89" desc="IDS_SIDEBAR_task" keycolor="0xffffffff" desccolor="0xff808193" default="任务" height="32">
+		</item>
+		<item id="16" key="I" vkcode="73" desc="IDS_SIDEBAR_Roleattribute" keycolor="0xffffffff" desccolor="0xff808193" default="角色" height="32">
+		</item>
+		<item id="17" key="O" vkcode="48" desc="IDS_SIDEBAR_CLUB" keycolor="0xffffffff" desccolor="0xff808193" default="帮会" height="32">
+		</item>
+		<item id="18" key="J" vkcode="74" desc="IDS_SIDEBAR_Skills" keycolor="0xffffffff" desccolor="0xff808193" default="武学" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.tmgp.gnyx" dpi="flase">
+		<item id="0" key="Right-Click" vkcode="-1" desc="IDS_SIDEBAR_FIRE" keycolor="0xffffffff" desccolor="0xff808193" default="开镜" height="32">
+		</item>
+		<item id="1" key="lift-Click" vkcode="-2" desc="IDS_SIDEBAR_AIM" keycolor="0xffffffff" desccolor="0xff808193" default="开火" height="32">
+		</item>
+		<item id="2" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="40">
+		</item>
+		<item id="3" key="Ctrl" vkcode="17" desc="IDS_SIDEBAR_CROUCH" keycolor="0xffffffff" desccolor="0xff808193" default="蹲下" height="32">
+		</item>
+		<item id="4" key="C" vkcode="67" desc="IDS_SIDEBAR_SQUAT" keycolor="0xffffffff" desccolor="0xff808193" default="滑铲" height="32">
+		</item>
+		<item id="5" key="R" vkcode="82" desc="IDS_SIDEBAR_RELOAD" keycolor="0xffffffff" desccolor="0xff808193" default="换弹" height="32">
+		</item>
+		<item id="6" key="Alt" vkcode="18" desc="IDS_SIDEBAR_FREELOOK" keycolor="0xffffffff" desccolor="0xff808193" default="自由视角" height="32">
+		</item>
+		<item id="7" key="~" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="解锁视角" height="32">
+		</item>
+		<item id="8" key="E" vkcode="69" desc="IDS_SIDEBAR_SMART" keycolor="0xffffffff" desccolor="0xff808193" default="智能交互（打开拾取列表/打开死亡盒子/开关门/跳伞等）" height="80">
+		</item>
+		<item id="9" key="F" vkcode="70" desc="IDS_SIDEBAR_SMART1" keycolor="0xffffffff" desccolor="0xff808193" default="智能交互" height="32">
+		</item>
+		<item id="10" key="Tab" vkcode="9" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="11" key="M" vkcode="77" desc="IDS_SIDEBAR_MAP" keycolor="0xffffffff" desccolor="0xff808193" default="地图" height="32">
+		</item>
+		<item id="12" key="Q" vkcode="81" desc="IDS_SIDEBAR_TACTICAL" keycolor="0xffffffff" desccolor="0xff808193" default="战术技能" height="32">
+		</item>
+		<item id="13" key="Z" vkcode="90" desc="IDS_SIDEBAR_UITIMATE" keycolor="0xffffffff" desccolor="0xff808193" default="必杀技" height="32">
+		</item>
+		<item id="14" key="X" vkcode="88" desc="IDS_SIDEBAR_PING" keycolor="0xffffffff" desccolor="0xff808193" default="信号" height="32">
+		</item>
+		<item id="15" key="=" vkcode="187" desc="IDS_SIDEBAR_EQU" keycolor="0xffffffff" desccolor="0xff808193" default="加速跑" height="32">
+		</item>
+		<item id="16" key="3" vkcode="51" desc="IDS_SIDEBAR_STR4" keycolor="0xffffffff" desccolor="0xff808193" default="投掷物" height="32">
+		</item>
+		<item id="17" key="4" vkcode="52" desc="IDS_SIDEBAR_Medicine" keycolor="0xffffffff" desccolor="0xff808193" default="药物" height="32">
+		</item>
+	</game>
+	<game name="com.tencent.letsgo" dpi="flase">
+		<item id="0" key="~" vkcode="192" desc="IDS_SIDEBAR_MOUSELOCK" keycolor="0xffffffff" desccolor="0xff808193" default="解锁视角" height="32">
+		</item>
+		<item id="1" key="Shift" vkcode="16" desc="IDS_SIDEBAR_Roll" keycolor="0xffffffff" desccolor="0xff808193" default="翻滚" height="32">
+		</item>
+		<item id="2" key="F" vkcode="70" desc="IDS_SIDEBAR_interactive" keycolor="0xffffffff" desccolor="0xff808193" default="交互" height="32">
+		</item>
+		<item id="3" key="Space" vkcode="32" desc="IDS_SIDEBAR_JUMP0" keycolor="0xffffffff" desccolor="0xff808193" default="跳跃" height="32">
+		</item>
+		<item id="4" key="B" vkcode="66" desc="IDS_SIDEBAR_PACKAGE" keycolor="0xffffffff" desccolor="0xff808193" default="背包" height="32">
+		</item>
+		<item id="5" key="R" vkcode="82" desc="IDS_SIDEBAR_Resetting" keycolor="0xffffffff" desccolor="0xff808193" default="重置" height="32">
+		</item>
+		<item id="6" key="Q" vkcode="81" desc="IDS_SIDEBAR_Sprint" keycolor="0xffffffff" desccolor="0xff808193" default="冲刺" height="32">
+		</item>
+		<item id="7" key="Right-Click" vkcode="-2" desc="IDS_SIDEBAR_Item" keycolor="0xffffffff" desccolor="0xff808193" default="使用道具" height="32">
+		</item>
+	</game>
+</GameSidebar>
+<Language>
+	<string id="IDS_SIDEBAR_MOVE" zh_CN="控制人物移动" en="Move" pt="Mover" ru="Движение" tr="Hareket" vi="Di chuyển" th="เคลื่อนที่" lang_id="Bergerak" ko="인물 이동을 통제하기" zh_TW="控制人物移動" ja="キャラ移動制御" es="Mover" de="Bewegen">
+	</string>
+	<string id="IDS_SIDEBAR_FIRE" zh_CN="开火" en="Fire" pt="Atirar" ru="Стрельба" tr="Ateş" vi="Lên lửa vũ khí" th="ยิง" lang_id="Menembak" ko="무기 오픈파이어" zh_TW="開火" ja="発射" es="Fuego" de="Schießen">
+	</string>
+	<string id="IDS_SIDEBAR_AIM" zh_CN="瞄准" en="Aim" pt="Mirar" ru="Прицеливание" tr="Nişan" vi="Nhắm" th="เล็ง" lang_id="Membidik" ko="조준경을 열기" zh_TW="瞄準" ja="照準" es="Apuntar" de="Zielen">
+	</string>
+	<string id="IDS_SIDEBAR_JUMP" zh_CN="跳跃 / 翻墙 / 上浮" en="Jump / Vault / Up" pt="Pular / Escalar / Cima" ru="Прыжок / Через / Вверх" tr="Zıpla / Atla / Yukarı" vi="Nhảy lên/nhảy qua/lên" th="กระโดด / ปีน / ว่ายขึ้น" lang_id="Melompat / Salto / Berdiri" ko="뛰기/넘/부상" zh_TW="跳躍 / 翻牆 / 上浮" ja="ジャンプ/壁乗越え/浮上" es="Saltar / Escalar / Arriba" de="Springen / Hinwegspringen / Schweben">
+	</string>
+	<string id="IDS_SIDEBAR_CROUCH" zh_CN="下蹲" en="Crouch" pt="Agachar" ru="Присесть" tr="Çömel" vi="Núp" th="ก้ม" lang_id="Meringkuk" ko="스퀴트" zh_TW="下蹲" ja="しゃがむ" es="Agachado" de="Hocken">
+	</string>
+	<string id="IDS_SIDEBAR_PRONE" zh_CN="卧倒" en="Prone" pt="Rastejar" ru="Лечь" tr="Yat" vi="Nằm sấp" th="หมอบลง" lang_id="Rentan" ko="엎드려" zh_TW="臥倒" ja="伏せる" es="Acostarse" de="Hinlegen">
+	</string>
+	<string id="IDS_SIDEBAR_FREELOOK" zh_CN="自由视角" en="Freelook" pt="Visão Livre" ru="Обзор" tr="Serbest bakış" vi="Giao diện tự do" th="มุมมองอิสระ" lang_id="Melihat bebas" ko="자유시각" zh_TW="自由視角" ja="フリールック" es="Vista libre" de="Freie Sicht">
+	</string>
+	<string id="IDS_SIDEBAR_SHIFT" zh_CN="奔跑" en="Sprint" pt="Correr" ru="Бег" tr="Hızlı Koş" vi="Chạy nhanh" th="วิ่งทันที" lang_id="Berlari cepat" ko="빨리 뛰어" zh_TW="奔跑" ja="走る" es="Correr" de="Rennen">
+	</string>
+	<string id="IDS_SIDEBAR_EQU" zh_CN="持续冲刺" en="Sprint" pt="Correr" ru="Бег" tr="Hızlı Koş" vi="Chạy nhanh" th="วิ่งทันที" lang_id="Berlari cepat" ko="빨리 뛰어" zh_TW="持續衝刺" ja="ダッシュ持続" es="Sprint" de="Sprinten">
+	</string>
+	<string id="IDS_SIDEBAR_FRAG" zh_CN="手雷" en="Frag Grenade" pt="Granada" ru="Граната" tr="Bomba" vi="Lựu đạn" th="ระเบิดมือ" lang_id="Granat" ko="수류탄" zh_TW="手榴彈" ja="手榴弾" es="Granada antitanque" de="Handgranate">
+	</string>
+	<string id="IDS_SIDEBAR_SMOKE" zh_CN="烟雾弹" en="Smoke" pt="Fumaça" ru="Дымовая" tr="Sis" vi="Bom khói" th="ระเบิดควัน" lang_id="Asap" ko="연막탄" zh_TW="煙霧彈" ja="煙弾" es="Bombas de humo" de="bombe">
+	</string>
+	<string id="IDS_SIDEBAR_MOLOTOV" zh_CN="燃烧瓶（震爆弹）" en="Molotov(Stun)" pt="Motolov &amp; Atord." ru="Молотов и светошумовая" tr="Molotof ve Flaş" vi="Lựu đạn lửa &amp; làm choáng" th="ระเบิดขวด (ระเบิดแสง)" lang_id="Molotov &amp; Statis" ko="화염병" zh_TW="燃燒瓶（震爆彈）" ja="火炎瓶（スタングリネード）" es="Botella incendiaria (bomba de explosión)" de="Molotow (Betäubung)">
+	</string>
+	<string id="IDS_SIDEBAR_MED" zh_CN="医疗箱" en="Med Kit" pt="Kit Médico" ru="Малая аптечка" tr="Sağlık Çantası" vi="Hòm thuốc trị liệu" th="ชุดเครื่องมือแพทย์" lang_id="Kit Medis" ko="의료용 키트" zh_TW="醫療箱" ja="医療箱" es="Kit de medicina" de="Medizinischer Kasten">
+	</string>
+	<string id="IDS_SIDEBAR_FIRSTAID" zh_CN="急救包" en="First Aid Kit" pt="Kit de PrimeirosSocorros" ru="Аптечка" tr="İlk Yardım Kiti" vi="Túi khí viện trợ" th="ชุดปฐมพยาบาล" lang_id="Kit Pertolongan Pertama" ko="구급 상자" zh_TW="急救包" ja="救急箱" es="Botiquín de primeros auxilios" de="Erste-Hilfe-Kasten">
+	</string>
+	<string id="IDS_SIDEBAR_BANDAGE" zh_CN="绷带" en="Bandage" pt="Bandagem" ru="Бинт" tr="Sargı Bezi" vi="Băng bó" th="ผ้าพันแผล" lang_id="Perban" ko="붕대" zh_TW="繃帶" ja="包帯" es="Vendaje" de="Verband">
+	</string>
+	<string id="IDS_SIDEBAR_PAINKILLER" zh_CN="饮料" en="Painkiller" pt="Analgésico" ru="Болеутоляющее" tr="Ağrı Kesici" vi="Thuốc giảm đau" th="ยาแก้ปวด" lang_id="Penghilang Rasa Sakit" ko="진통제" zh_TW="飲料" ja="ドリンク" es="Analgésico" de="Schmerzmittel">
+	</string>
+	<string id="IDS_SIDEBAR_KEYREMIND" zh_CN="键位提醒开关" en="Key reminder switch" pt="Lembrete de Chave" ru="Напоминание о кнопках" tr="Tuş hatırlatma anahtarı" vi="Công tắc nhắc nhở chính" th="เปิดปิดการเตือน" lang_id="Tombol pengingat kunci" ko="키 알림 스위치" zh_TW="鍵位提醒開關" ja="ボタンアラートスイッチ" es="Interruptor de recordatorio clave" de="Schlüsselerinnerungsschalter">
+	</string>
+	<string id="IDS_SIDEBAR_MOUSELOCK" zh_CN="鼠标锁定开关" en="Mouse lock switch" pt="Bloqueio de Mouse" ru="Блокировка мыши" tr="Fare sabitleme anahtarı" vi="Công tắc khóa chuột" th="ปุ่มล็อคเม้าส์" lang_id="Tombol pengunci mouse" ko="마우스 잠금 스위치" zh_TW="滑鼠鎖定開關" ja="マウスロックスイッチ" es="Interruptor de bloqueo del ratón" de="Maussperrschalter">
+	</string>
+	<string id="IDS_SIDEBAR_SMARTKEY" zh_CN="智能交互(开门/驾驶/跳伞等）" en="Open doors / Drive / Pick up / Parachute / Equipment / ..." pt="Abrir portas / Dirigir / Coletar / Pular (Paraquedas) / Equipamento /..." ru="Открыть дверь / Управлять / Поднять / Парашют / Инвентарь / ..." tr="Kapı aç / Sür / Topla / Paraşüt / Ekipman / ..." vi="Có thể được sử dụng trong việc mở cửa, Lái xe, Nhảy dù, Nhặt vũ khí và các thao tác khác" th="ใช้สำหรับเปิดประตู/ขับ/กระโดดร่ม/เก็บอุปกรณ์" lang_id="Buka pintu / Kemudi / Ambil / Parasut / Peralatan / ..." ko="문 열림,운전,스카이다이빙,피킹 장비 등의 조작을 사용할 수 있습니다" zh_TW="智能交互(開門/駕駛/跳傘等)" ja="スマート機能（扉開閉/運転/落下傘等）" es="Interacción inteligente (Abrir / Conducción/ paracaidismo, etc.)" de="Kann interagieren (Türen öffnen / Fahren / Fallschirmspringen usw.)">
+	</string>
+	<string id="IDS_SIDEBAR_VIEW3_1" zh_CN="切换第一/第三视角" en="First/Third" pt="Mudar primeira / terceira perspectiva" ru="Сменить вид от первого/третьего лица" tr="Birinci/üçüncü perspektifi değiştir" vi="Đổi góc nhìn 1/3" th="สลับมุมมองที่1/3" lang_id="Sudut Pandang Pertama/Sudut Pandang Ketiga" ko="제1/제3 시각 전환하기" zh_TW="切換第一/第三視角" ja="1/2アングル切替" es="Primero/Tercero" de="Erste / dritte Perspektive wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_C" zh_CN="下蹲/下潜" en="Crouch/Dive" pt="Agachar / mergulhar" ru="Присесть/погрузиться" tr="Çömel/Dal" vi="Ngồi xuống/chìm xuống" th="ก้ม/ดำ" lang_id="Jongkok/Selam" ko="구부리기/웅크리기" zh_TW="下蹲/下潛" ja="しゃがむ/↓ダイブ" es="Agachado/Bucear" de="Hocke / Tauchen">
+	</string>
+	<string id="IDS_SIDEBAR_F1" zh_CN="快捷消息1" en="Alert 1" pt="Mensagem rápida 1" ru="Быстрое сообщение1" tr="Hızlı Mesaj 1" vi="Tin nhắn nhanh 1" th="ข่าวล่ามาแรง1" lang_id="Peringatan 1" ko="단축 메시지1" zh_TW="快捷消息1" ja="クイック情報1" es="Alerta 1" de="Warnung 1">
+	</string>
+	<string id="IDS_SIDEBAR_F2" zh_CN="2" en="Alert 2" pt="Mensagem rápida 2" ru="2" tr="2" vi="2" th="2" lang_id="Peringatan 2" ko="2" zh_TW="2" ja="2" es="2" de="2">
+	</string>
+	<string id="IDS_SIDEBAR_T" zh_CN="语音" en="Voice" pt="Voz" ru="Голосовое сообщение" tr="Sesli Mesaj" vi="Giọng nói" th="โทร" lang_id="Suara" ko="음성" zh_TW="語音" ja="音声" es="Voz" de="Stimme">
+	</string>
+	<string id="IDS_SIDEBAR_Y" zh_CN="麦克风" en="Mic" pt="Microfone" ru="Микрофон" tr="Mikrofon" vi="Micro" th="ไมโครโฟน" lang_id="Mikrofon" ko="마이크" zh_TW="麥克風" ja="マイク" es="Mic" de="Mikrofon">
+	</string>
+	<string id="IDS_SIDEBAR_RELOAD" zh_CN="换弹药" en="Reload" pt="Recarregar" ru="перезагружать" tr="Tekrar yükle" vi="tải lại" th="โหลด" lang_id="memuat ulang" ko="재 장전하다" zh_TW="換彈" ja="弾薬交換" es="Recargar" de="Nachladen">
+	</string>
+	<string id="IDS_SIDEBAR_MAP" zh_CN="地图" en="Map" pt="Mapa" ru="Карта" tr="Harita" vi="Bản đồ" th="เปิดแผนที่" lang_id="Peta" ko="지도" zh_TW="地圖" ja="マップ" es="Mapa" de="Karte">
+	</string>
+	<string id="IDS_SIDEBAR_PACKAGE" zh_CN="背包" en="Package" pt="Mochila" ru="Рюкзак" tr="Çanta" vi="Túi đồ" th="กระเป๋าเป้" lang_id="Paket" ko="가방" zh_TW="背包" ja="バッグ" es="Paquete" de="Rucksack">
+	</string>
+	<string id="IDS_SIDEBAR_STR1" zh_CN="副武器1" en="Weapon1" pt="Arma auxiliar 1" ru="Оружие1" tr="Kullanıcı Silah 1" vi="Vũ khí phụ 1" th="อาวุธสำรอง1" lang_id="Senjata 1" ko="서브 무기1" zh_TW="副武器1" ja="サブ武器1" es="Arma1" de="Nebenwaffe 1">
+	</string>
+	<string id="IDS_SIDEBAR_STR2" zh_CN="副武器2" en="Weapon2" pt="Arma auxiliar 2" ru="Оружие2" tr="Kullanıcı Silah 2" vi="Vũ khí phụ 2" th="อาวุธสำรอง2" lang_id="Senjata 2" ko="서브 무기2" zh_TW="副武器2" ja="サブ武器2" es="Arma2" de="Nebenwaffe 2">
+	</string>
+	<string id="IDS_SIDEBAR_STR3" zh_CN="副武器3" en="Weapon3" pt="Arma auxiliar 3" ru="Оружие3" tr="Kullanıcı Silah 3" vi="Vũ khí phụ 3" th="อาวุธสำรอง3" lang_id="Senjata 3" ko="서브 무기3" zh_TW="副武器3" ja="サブ武器3" es="Arma3" de="Nebenwaffe 3">
+	</string>
+	<string id="IDS_SIDEBAR_STR4" zh_CN="投掷物" en="Missile" pt="Atirar objetos" ru="Снаряд" tr="Fırlatılacaklar" vi="Vật tung ra" th="มิสไซล์" lang_id="Misil" ko="투척물" zh_TW="投擲物" ja="投擲物" es="Misil" de="Geschoss">
+	</string>
+	<string id="IDS_SIDEBAR_STR5" zh_CN="急救包" en="First Aid Kit" pt="Kit de primeirossocorros" ru="Аптечка" tr="İlk Yardım Kiti" vi="Túi cấp cứu" th="ชุดปฐมพยาบาล" lang_id="Kotak Medis" ko="구급백" zh_TW="急救包" ja="救急箱" es="Botiquín de primeros auxilios" de="Erste-Hilfe-Kasten">
+	</string>
+	<string id="IDS_SIDEBAR_SMARTKEYFF" zh_CN="智能交互(驾驶/跳伞等)" en="Drive / Pick up / Parachute / Equipment / ..." pt="Dirigir / Coletar / Pular (Paraquedas) / Equipamento /..." ru="Управлять / Поднять / Парашют / Инвентарь / .." tr="Sür / Topla / Paraşüt / Ekipman / ..." vi="Có thể được sử dụng trong việc mở cửa, Lái xe, Nhảy dù, Nhặt vũ khí và các thao tác khác" th="ขับ/กระโดดร่ม/เก็บอุปกรณ์" lang_id="Kemudi / Ambil / Parasut / Peralatan / .." ko="문 열림,운전,스카이다이빙,피킹 장비 등의 조작을 사용할 수 있습니다." zh_TW="智能交互(駕駛/跳傘等)" ja="スマート機能（運転/落下傘等）" es="Interacción inteligente (Conducción/ paracaidismo, etc.)" de="Kann interagieren (Türen öffnen / Fahren / Fallschirmspringen usw.)">
+	</string>
+	<string id="IDS_SIDEBAR_MOVESWITCH" zh_CN="切换行走模式" en="Switch Walking Mode" pt="Alternar modo de caminhada" ru="Переключить режим ходьбы" tr="Yürüme Modunu Değiştir" vi="Chuyển chế độ đi bộ" th="เปลี่ยนโหมดการเดิน" lang_id="Ganti Mode Berjalan" ko="걷기 모드 전환" zh_TW="切換行走模式" ja="走行モード切替" es="Cambiar el modo de caminar" de="Gehmodus wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_JUMP0" zh_CN="跳跃" en="Jump" pt="Pular" ru="Прыжок" tr="Zıpla" vi="Nhảy lên" th="กระโดด" lang_id="Melompat" ko="뛰기/넘/부상" zh_TW="跳躍" ja="ジャンプ" es="Saltar" de="Springen">
+	</string>
+	<string id="IDS_SIDEBAR_UPPERSPECTIVE" zh_CN="向上移动人物视角镜头" en="Move The Person's Perspective Lens Upwards" pt="Mova a câmera do perspectiva para cima" ru="Переместить угол обзора вверх" tr="Kişinin kamera perspektifini yukarı taşı" vi="Di chuyển ống kính góc nhìn nhân vật lên trên" th="ปรับมุมกล้องตัวละครขึ้นบน" lang_id="Gerakkan Lensa Perspektif Orang Ke Atas" ko="인물 시각 렌즈 위로 이동" zh_TW="向上移動人物視角鏡頭" ja="移動キャラのアングルレンズ↑" es="Mover la lente de perspectiva de la persona hacia arriba" de="Bewege das Perspektivobjektiv der Person nach oben">
+	</string>
+	<string id="IDS_SIDEBAR_RIGHTPERSPECTIVE" zh_CN="向右移动人物视角镜头" en="Move The Person's Perspective Lens To The Right" pt="Mova a câmera do perspectiva para direta" ru="Переместить угол обзора вправо" tr="Kişinin kamera perspektifini sağa taşı" vi="Di chuyển ống kính góc nhìn nhân vật sang phải" th="ปรับมุมกล้องตัวละครไปทางขวา" lang_id="Gerakkan Lensa Perspektif Orang Ke Kanan" ko="인물 시각 렌즈 오른쪽으로 이동" zh_TW="向右移動人物視角鏡頭" ja="移動キャラのアングルレンズ→" es="Mover la lente de perspectiva de la persona a la derecha" de="Bewege das Perspektivobjektiv der Person nach rechts">
+	</string>
+	<string id="IDS_SIDEBAR_LEFTPERSPECTIVE" zh_CN="向左移动人物视角镜头" en="Move The Person's Perspective Lens To The Left" pt="Mova a câmera do perspectiva para esquerda" ru="Переместить угол обзора влево" tr="Kişinin kamera perspektifini sola taşı" vi="Di chuyển ống kính góc nhìn nhân vật sang trái" th="ปรับมุมกล้องตัวละครไปทางซ้าย" lang_id="Gerakkan Lensa Perspektif Orang Ke Kiri" ko="인물 시각 렌즈 왼쪽으로 이동" zh_TW="向左移動人物視角鏡頭" ja="移動キャラのアングルレンズ←" es="Mover la lente de perspectiva de la persona a la izquierda" de="Bewege das Perspektivobjektiv der Person nach links">
+	</string>
+	<string id="IDS_SIDEBAR_DOWNPERSPECTIVE" zh_CN="向下移动人物视角镜头" en="Move The Person's Perspective Lens Down" pt="Mova a câmera do perspectiva para baixa" ru="Переместить угол обзора вниз" tr="Kişinin kamera perspektifini aşağı taşı" vi="Di chuyển ống kính góc nhìn nhân vật xuống dưới" th="ปรับมุมกล้องตัวละครลงล่าง" lang_id="Gerakkan Lensa Perspektif Orang Ke Bawah" ko="인물 시각 렌즈 아래로 이동" zh_TW="向下移動人物視角鏡頭" ja="移動キャラのアングルレンズ↓" es="Mover la lente de perspectiva de la persona hacia abajo" de="Bewege das Perspektivobjektiv der Person nach unten">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY1" zh_CN="物品栏1" en="Inventory1" pt="Lista de itens 1" ru="Инвентарь1" tr="Eşya Çubuğu 1" vi="Cột vật phẩm 1" th="รายการไอเทม1" lang_id="Persediaan 1" ko="물품란1" zh_TW="物品欄1" ja="アイテム枠1" es="Inventario1" de="Inventar 1">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY2" zh_CN="物品栏2" en="Inventory2" pt="Lista de itens 2" ru="Инвентарь2" tr="Eşya Çubuğu 2" vi="Cột vật phẩm 2" th="รายการไอเทม2" lang_id="Persediaan 2" ko="물품란2" zh_TW="物品欄2" ja="アイテム枠2" es="Inventario2" de="Inventar 2">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY3" zh_CN="物品栏3" en="Inventory3" pt="Lista de itens 3" ru="Инвентарь3" tr="Eşya Çubuğu 3" vi="Cột vật phẩm 3" th="รายการไอเทม3" lang_id="Persediaan 3" ko="물품란3" zh_TW="物品欄3" ja="アイテム枠3" es="Inventario3" de="Inventar 3">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY4" zh_CN="物品栏4" en="Inventory4" pt="Lista de itens 4" ru="Инвентарь4" tr="Eşya Çubuğu 4" vi="Cột vật phẩm 4" th="รายการไอเทม4" lang_id="Persediaan 4" ko="물품란4" zh_TW="物品欄4" ja="アイテム枠4" es="Inventario4" de="Inventar 4">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY5" zh_CN="物品栏5" en="Inventory5" pt="Lista de itens 5" ru="Инвентарь5" tr="Eşya Çubuğu 5" vi="Cột vật phẩm 5" th="รายการไอเทม5" lang_id="Persediaan 5" ko="물품란5" zh_TW="物品欄5" ja="アイテム枠5" es="Inventario5" de="Inventar 5">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY6" zh_CN="物品栏6" en="Inventory6" pt="Lista de itens 6" ru="Инвентарь6" tr="Eşya Çubuğu 6" vi="Cột vật phẩm 6" th="รายการไอเทม6" lang_id="Persediaan 6" ko="물품란6" zh_TW="物品欄6" ja="アイテム枠6" es="Inventario6" de="Inventar 6">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY7" zh_CN="物品栏7" en="Inventory7" pt="Lista de itens 7" ru="Инвентарь7" tr="Eşya Çubuğu 7" vi="Cột vật phẩm 7" th="รายการไอเทม7" lang_id="Persediaan 7" ko="물품란7" zh_TW="物品欄7" ja="アイテム枠7" es="Inventario7" de="Inventar 7">
+	</string>
+	<string id="IDS_SIDEBAR_INVENTORY8" zh_CN="物品栏8" en="Inventory8" pt="Lista de itens 8" ru="Инвентарь8" tr="Eşya Çubuğu 8" vi="Cột vật phẩm 8" th="รายการไอเทม8" lang_id="Persediaan 8" ko="물품란8" zh_TW="物品欄8" ja="アイテム枠8" es="Inventario8" de="Inventar 8">
+	</string>
+	<string id="IDS_SIDEBAR_ROTATEVIEW1" zh_CN="视角调整1" en="Rotate View1" pt="Rodar a Vista1" ru="Направление1" tr="Döndür1" vi="Xoay Góc Nhìn1" th="ยปรับมุมมอง1" lang_id="Putar Tampilan1" ko="화면 전환1" zh_TW="視角調整1" ja="アングル変更1" es="Rotar Vista1" de="Ansicht drehen 1">
+	</string>
+	<string id="IDS_SIDEBAR_ROTATEVIEW2" zh_CN="视角调整2" en="Rotate View2" pt="Rodar a Vista2" ru="Направление2" tr="Döndür2" vi="Xoay Góc Nhìn2" th="ยปรับมุมมอง2" lang_id="Putar Tampilan2" ko="화면 전환2" zh_TW="視角調整2" ja="アングル変更2" es="Rotar Vista2" de="Ansicht drehen 2">
+	</string>
+	<string id="IDS_SIDEBAR_ROTATEVIEW3" zh_CN="视角调整3" en="Rotate View3" pt="Rodar a Vista3" ru="Направление3" tr="Döndür3" vi="Xoay Góc Nhìn3" th="ยปรับมุมมอง3" lang_id="Putar Tampilan3" ko="화면 전환3" zh_TW="視角調整3" ja="アングル変更3" es="Rotar Vista3" de="Ansicht drehen 3">
+	</string>
+	<string id="IDS_SIDEBAR_ROTATEVIEW4" zh_CN="视角调整4" en="Rotate View4" pt="Rodar a Vista4" ru="Направление4" tr="Döndür4" vi="Xoay Góc Nhìn4" th="ยปรับมุมมอง4" lang_id="Putar Tampilan4" ko="화면 전환4" zh_TW="視角調整4" ja="アングル変更4" es="Rotar Vista4" de="Ansicht drehen 4">
+	</string>
+	<string id="IDS_SIDEBAR_ATTACK" zh_CN="攻击" en="Attack" pt="Atacar" ru="Атака" tr="Saldır" vi="Tấn Công" th="โจมตี" lang_id="Serang" ko="공격" zh_TW="攻擊" ja="攻撃" es="Ataque" de="Angriff">
+	</string>
+	<string id="IDS_SIDEBAR_DODGE" zh_CN="闪避" en="Dodge" pt="Esquivar" ru="Уклонение" tr="Savuştur" vi="Né" th="หลบ" lang_id="Menghindar" ko="회피" zh_TW="閃避" ja="回避" es="Dodge" de="Ausweichen">
+	</string>
+	<string id="IDS_SIDEBAR_ULTIMATE" zh_CN="必杀技" en="Ultimate" pt="Supremo" ru="Ультимейт" tr="Ulti" vi="Chiêu Cuối" th="สกิลไม้ตาย" lang_id="Ultimate" ko="궁극기" zh_TW="必殺技" ja="必殺技" es="Último" de="Ultimativ">
+	</string>
+	<string id="IDS_SIDEBAR_WEAPON" zh_CN="武器技" en="Weapon" pt="Arma" ru="Оружие" tr="Silah" vi="Vũ Khí" th="สกิลอาวุธ" lang_id="Senjata" ko="무기" zh_TW="武器技" ja="武器スキル" es="Arma" de="Waffe">
+	</string>
+	<string id="IDS_SIDEBAR_SWITCHVALKYRIE1" zh_CN="切换女武神1" en="Switch Valkyrie1" pt="Trocar Valkyrie1" ru="Переключить валькирию1" tr="Valkyrie Değiştir1" vi="Đổi Valkyrie1" th="สลับเป็น Valkyrie1" lang_id="Ubah Valkyrie1" ko="발키리 전환1" zh_TW="切換女武神1" ja="ワルキューレ切替1" es="Cambiar Valkyrie1" de="Walküre wechseln 1">
+	</string>
+	<string id="IDS_SIDEBAR_SWITCHVALKYRIE2" zh_CN="切换女武神2" en="Switch Valkyrie2" pt="Trocar Valkyrie2" ru="Переключить валькирию2" tr="Valkyrie Değiştir2" vi="Đổi Valkyrie2" th="สลับเป็น Valkyrie2" lang_id="Ubah Valkyrie2" ko="발키리 전환2" zh_TW="切換女武神2" ja="ワルキューレ切替2" es="Cambiar Valkyrie2" de="Walküre wechseln 2">
+	</string>
+	<string id="IDS_SIDEBAR_SPECIAL" zh_CN="场景切换 / 特殊功能" en="Switch Scene / Special" pt="Trocar Cena / Especial" ru="Сменить локацию / Особое" tr="Konum Değiştir / Özel" vi="Đổi Cảnh / Đặc Biệt" th="สลับฉาก / ฟังก์ชั่นพิเศษ" lang_id="Ganti Adegan / Fungsi Khusus" ko="배경 전환 / 특수 기능" zh_TW="場景切換 / 特殊功能" ja="シーン切替 / 特殊機能" es="Cambiar escena / Especial" de="Szene / Spezial wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_PAUSE" zh_CN="暂停 / 返回" en="Pause / Menu" pt="Pausar / Menu" ru="Пауза / Меню" tr="Durdur / Menü" vi="Tạm Dừng / Menu" th="หยุด / กลับ" lang_id="Jeda / Menu" ko="일시 정시 / 메뉴" zh_TW="暫停 / 返回" ja="一時停止 / 戻る" es="Pausa / Menú" de="Pause / Menü">
+	</string>
+	<string id="IDS_SIDEBAR_ELFSKILL" zh_CN="宠物技能" en="ELF skill" pt="Habilidade ELF" ru="ELF" tr="ELF becerisi" vi="Kỹ năng ELF" th="สกิลคู่หู" lang_id="Kemampuan ELF" ko="ELF 스킬" zh_TW="寵物技能" ja="ペットスキル" es="Habilidad de ELF" de="ELF Fähigkeit">
+	</string>
+	<string id="IDS_SIDEBAR_RHYTHMGAMEKEYS1" zh_CN="音游玩法按键1" en="Rhythm Game Keys1" pt="Rítimo da Chave do Jogo1" ru="Кнопки музыкальной игры1" tr="Ritim Oyunu Tuşları1" vi="Các Phím Trò Chơi Nhịp Điệu1" th="ปุ่มโหมดเกมดนตรี1" lang_id="Tombol Suara Game1" ko="리듬 게임 키1" zh_TW="音遊玩法按鍵1" ja="ミュージックゲーム（ボタン1）" es="Claves del juego rítmico1" de="Rhythmus-Spieltasten 1">
+	</string>
+	<string id="IDS_SIDEBAR_RHYTHMGAMEKEYS2" zh_CN="音游玩法按键2" en="Rhythm Game Keys2" pt="Rítimo da Chave do Jogo2" ru="Кнопки музыкальной игры2" tr="Ritim Oyunu Tuşları2" vi="Các Phím Trò Chơi Nhịp Điệu2" th="ปุ่มโหมดเกมดนตรี2" lang_id="Tombol Suara Game2" ko="리듬 게임 키2" zh_TW="音遊玩法按鍵2" ja="ミュージックゲーム（ボタン1）" es="Claves del juego rítmico2" de="Rhythmus-Spieltasten 2">
+	</string>
+	<string id="IDS_SIDEBAR_RHYTHMGAMEKEYS3" zh_CN="音游玩法按键3" en="Rhythm Game Keys3" pt="Rítimo da Chave do Jogo3" ru="Кнопки музыкальной игры3" tr="Ritim Oyunu Tuşları3" vi="Các Phím Trò Chơi Nhịp Điệu3" th="ปุ่มโหมดเกมดนตรี3" lang_id="Tombol Suara Game3" ko="리듬 게임 키3" zh_TW="音遊玩法按鍵3" ja="ミュージックゲーム（ボタン1）" es="Claves del juego rítmico3" de="Rhythmus-Spieltasten 3">
+	</string>
+	<string id="IDS_SIDEBAR_FIRESMART" zh_CN="开火（智能键位）" en="Fire (Smart Key)" pt="Atirar (Chave Inteligente)" ru="Огонь (умный режим)" tr="Ateş (Akıllı Tuş)" vi="Bắn (Phím Thông Minh)" th="ยิง (สมาร์ทคีย์)" lang_id="Tembak (Tombol Pintar)" ko="불 (스마트 키)" zh_TW="開火（智能鍵位）" ja="発射（スマートキー）" es="Fuego (llave inteligente)" de="Schießen (Smart-Taste)">
+	</string>
+	<string id="IDS_SIDEBAR_ULTIMATESMART" zh_CN="大招（智能键位）" en="Ult (Smart Key)" pt="Ult (tecladointeligente)" ru="Абсолютное умение (умная клавиша)" tr="Çağrı" vi="Tối thượng (Phím Thông Minh)" th="ไม้ตาย(สมาร์ทคีย์)" lang_id="Ult (Tombol Pintar)" ko="궁극의 기술 (스마트 키)" zh_TW="大招（智能鍵位）" ja="必殺技（スマートキー）" es="Ult (llave inteligente)" de="Ult. (Smart-Taste)">
+	</string>
+	<string id="IDS_SIDEBAR_ULTIMATESTARS" zh_CN="大招" en="Ultimate" pt="Supremo" ru="Ультимейт" tr="Ulti" vi="Chiêu Cuối" th="ท่า" lang_id="Ultimate" ko="궁극기" zh_TW="大招" ja="必殺技" es="Último" de="Ultimativ">
+	</string>
+	<string id="IDS_SIDEBAR_ROLL" zh_CN="翻滚" en="Roll" pt="Rolar" ru="Кувырок" tr="Yuvarlan" vi="Cuộn" th="กลิ้ง" lang_id="Berguling" ko="구르기" zh_TW="翻滾" ja="ローリング" es="Rodillo" de="Rollen">
+	</string>
+	<string id="IDS_SIDEBAR_INTEGRATIONKEY" zh_CN="开门 / 攀爬 / 开车" en="Open / Climb / Drive" pt="Abrir / Subir / Dirigir" ru="Открыть / Карабкаться / Управлять" tr="Aç / Tırman / Sür" vi="Mở / Leo / Lái xe" th="เปิดประตู / ปีน / ขับรถ" lang_id="Buka / Panjat / Kendarai" ko="열기 / 오르기 / 운전" zh_TW="開門 / 攀爬 / 開車" ja="扉開閉 / 登る / 運転" es="Abrir / Subir / Conducir" de="Öffnen / Klettern / Fahren">
+	</string>
+	<string id="IDS_SIDEBAR_PICKUP" zh_CN="拾取" en="Pick up" pt="Pegar" ru="Поднять" tr="Topla" vi="Nhặt lên" th="เก็บ" lang_id="Ambil" ko="획득" zh_TW="拾取" ja="拾う" es="Recoger" de="Aufheben">
+	</string>
+	<string id="IDS_SIDEBAR_ABILITY1" zh_CN="技能1" en="Ability1" pt="Habilidade 1" ru="Навык 1" tr="Beceri 1" vi="Khả năng 1" th="สกิล 1" lang_id="Kemampuan 1" ko="스킬1" zh_TW="技能1" ja="スキル1" es="Habilidad1" de="Fähigkeit 1">
+	</string>
+	<string id="IDS_SIDEBAR_ABILITY2" zh_CN="技能2" en="Ability2" pt="Habilidade 2" ru="Навык 2" tr="Beceri 2" vi="Khả năng 2" th="สกิล 2" lang_id="Kemampuan 2" ko="스킬2" zh_TW="技能2" ja="スキル2" es="Habilidad2" de="Fähigkeit 2">
+	</string>
+	<string id="IDS_SIDEBAR_ABILITY3" zh_CN="技能3" en="Ability3" pt="Habilidade 3" ru="Навык 3" tr="Beceri 3" vi="Khả năng 3" th="สกิล 3" lang_id="Kemampuan 3" ko="스킬3" zh_TW="技能3" ja="スキル3" es="Habilidad3" de="Fähigkeit 3">
+	</string>
+	<string id="IDS_SIDEBAR_TALENT" zh_CN="召唤师技能" en="Talent" pt="Talento" ru="Талант" tr="Yetenek" vi="Năng lực" th="สกิล Summoner" lang_id="Talent" ko="소환사 스킬" zh_TW="召喚師技能" ja="召喚士のスキル" es="Talento" de="Talent">
+	</string>
+	<string id="IDS_SIDEBAR_MATCHINFO" zh_CN="对局详情" en="Match Info" pt="Info. da Partida" ru="Данные матча" tr="Maç Bilgisi" vi="Thông tin phù hợp" th="เกี่ยวกับแมทช์" lang_id="Informasi Pertempuran" ko="매치 정보" zh_TW="對局詳情" ja="対戦詳細" es="Información del partido" de="Spiel-Info">
+	</string>
+	<string id="IDS_SIDEBAR_CAMERA" zh_CN="移动视角" en="Camera" pt="Câmera" ru="Камера" tr="Kamera" vi="Máy ảnh" th="เปลี่ยนมุมมอง" lang_id="Kamera" ko="카메라" zh_TW="移動視角" ja="アングル移動" es="Cámara" de="Kamera">
+	</string>
+	<string id="IDS_SIDEBAR_RESTOREHP" zh_CN="恢复血量" en="Restore HP" pt="Recuperar VIDA" ru="Восстановление ОЗ" tr="Can Yenile" vi="Hồi phục HP" th="ฟื้น HP" lang_id="Pulihkan HP" ko="HP 회복" zh_TW="恢復血量" ja="生命回復" es="Restaurar HP" de="HP wiederherstellen">
+	</string>
+	<string id="IDS_SIDEBAR_RECALL" zh_CN="回城" en="Recall" pt="Recuperar" ru="Отзыв" tr="Geri Çağır" vi="Triệu hồi" th="กลับเมือง" lang_id="Kembali" ko="귀환" zh_TW="回城" ja="城へ戻る" es="Recordar" de="Rückruf">
+	</string>
+	<string id="IDS_SIDEBAR_USEEQUIPMENT" zh_CN="使用装备" en="Use Equipment" pt="Usar Equipamento" ru="Использовать экипировку" tr="Ekipmanı Kullan" vi="Sử dụng thiết bị" th="ใช้อุปกรณ์" lang_id="Gunakan Perlengkapan" ko="장비 사용" zh_TW="使用裝備" ja="装備使用" es="Usar equipo" de="Rüstung benutzen">
+	</string>
+	<string id="IDS_SIDEBAR_PURCHASEITEM1" zh_CN="购买道具 1" en="Purchase Item 1" pt="Comprar Item 1" ru="Приобрести предмет 1" tr="Ögeyi Satın Al 1" vi="Mua vật phẩm 1" th="ซื้อไอเทม 1" lang_id="Beli Item 1" ko="아이템 구매1" zh_TW="購買道具 1" ja="購入したアイテム1" es="Artículo de compra 1" de="Gegenstand kaufen 1">
+	</string>
+	<string id="IDS_SIDEBAR_PURCHASEITEM2" zh_CN="购买道具 2" en="Purchase Item 2" pt="Comprar Item 2" ru="Приобрести предмет 2" tr="Ögeyi Satın Al 2" vi="Mua vật phẩm 2" th="ซื้อไอเทม 2" lang_id="Beli Item 2" ko="아이템 구매2" zh_TW="購買道具 2" ja="購入したアイテム2" es="Artículo de compra 2" de="Gegenstand kaufen 2">
+	</string>
+	<string id="IDS_SIDEBAR_Lordsattribute" zh_CN="领主属性" en="Lord Stats" pt="Atributo de lord" ru="Характеристики лорда" tr="Lord Özellikleri" vi="Thuộc tính của Chúa" th="คุณสมบัติของ Thane" lang_id="Stats Lord" ko="주님의 속성" zh_TW="領主屬性" ja="領主屬性" es="Estadísticas del Señor" de="Lord Attribute">
+	</string>
+	<string id="IDS_SIDEBAR_task" zh_CN="任务" en="Quest" pt="Missão" ru="Задание" tr="Görev" vi="Nhiệm vụ" th="ภารกิจ" lang_id="Misil" ko="퀘스트" zh_TW="任務" ja="任務" es="Tarea" de="Quest">
+	</string>
+	<string id="IDS_SIDEBAR_commander" zh_CN="指挥官" en="Commander" pt="Comandante" ru="Офицер" tr="Komutan" vi="Chỉ huy quan" th="แม่ทัพ" lang_id="Komandan" ko="지휘관" zh_TW="指揮官" ja="指揮官" es="Comandante" de="Kommandant">
+	</string>
+	<string id="IDS_SIDEBAR_Roleattribute" zh_CN="角色属性" en="Character Stats" pt="Atributos do personagem" ru="Характеристики персонажа" tr="Karakter Özelliği" vi="Thuộc tính nhân vật" th="คุณสมบัติตัวละคร" lang_id="Stats Karakter" ko="캐릭터 속성" zh_TW="角色屬性" ja="キャラ属性" es="Estadísticas de personajes" de="Charakter Attribute">
+	</string>
+	<string id="IDS_SIDEBAR_Team" zh_CN="组队" en="Team" pt="Equipe-se" ru="Создать группу" tr="Takım" vi="Tổ đội" th="สร้างทีม" lang_id="Tim" ko="팀 구성" zh_TW="組隊" ja="チーム" es="Equipo" de="Team">
+	</string>
+	<string id="IDS_SIDEBAR_Friend" zh_CN="好友" en="Friends" pt="Amigos" ru="Друзья" tr="Arkadaş" vi="Bạn bè" th="เพื่อน" lang_id="Teman" ko="친구" zh_TW="好友" ja="バディ" es="Amigos" de="Freunde">
+	</string>
+	<string id="IDS_SIDEBAR_Chat" zh_CN="聊天" en="Chat" pt="Conversar" ru="Общение" tr="Sohbet" vi="Trò chuyện" th="แชท" lang_id="Obrolan" ko="채팅" zh_TW="聊天" ja="チャット" es="Chat" de="Char">
+	</string>
+	<string id="IDS_SIDEBAR_Hangup" zh_CN="挂机" en="AFK" pt="Enganchado" ru="Авторежим" tr="Otomatik" vi="Treo máy" th="วาง" lang_id="AFK" ko="매크로 중" zh_TW="掛機" ja="AFK" es="AFK" de="AFK">
+	</string>
+	<string id="IDS_SIDEBAR_Target" zh_CN="切换目标" en="Switch Target" pt="Mudar de alvo" ru="Сменить цель" tr="Hedefi değiştir" vi="Đổi mục tiêu" th="เปลี่ยนเป้าหมาย" lang_id="Ganti Target" ko="목표 전환" zh_TW="切換目標" ja="ターゲット変更" es="Cambiar de objetivo" de="Ziel wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_Attack" zh_CN="普通攻击" en="Attack" pt="Ataque normal" ru="Обычная атака" tr="Normal Saldırı" vi="Công kích phổ thông" th="โจมตีธรรมดา" lang_id="Serang" ko="일반 공격" zh_TW="普通攻擊" ja="通常攻撃" es="Ataque" de="Normaler Angriff">
+	</string>
+	<string id="IDS_SIDEBAR_Skills1" zh_CN="技能1" en="Skill 1" pt="Habilidade 1" ru="Навык1" tr="Beceri 1" vi="Kỹ năng 1" th="สกิล1" lang_id="Skill 1" ko="스킬1" zh_TW="技能1" ja="スキル1" es="Habilidad 1" de="Fähigkeit 1">
+	</string>
+	<string id="IDS_SIDEBAR_Skills2" zh_CN="技能2" en="Skill 2" pt="Habilidade 2" ru="Навык2" tr="Beceri 2" vi="Kỹ năng 2" th="สกิล2" lang_id="Skill 2" ko="스킬2" zh_TW="技能2" ja="スキル2" es="Habilidad 2" de="Fähigkeit 2">
+	</string>
+	<string id="IDS_SIDEBAR_Skills3" zh_CN="技能3" en="Skill 3" pt="Habilidade 3" ru="Навык3" tr="Beceri 3" vi="Kỹ năng 3" th="สกิล3" lang_id="Skill 3" ko="스킬3" zh_TW="技能3" ja="スキル3" es="Habilidad 3" de="Fähigkeit 3">
+	</string>
+	<string id="IDS_SIDEBAR_Skills4" zh_CN="技能4" en="Skill 4" pt="Habilidade 4" ru="Навык4" tr="Beceri 4" vi="Kỹ năng 4" th="สกิล4" lang_id="Skill 4" ko="스킬4" zh_TW="技能4" ja="スキル4" es="Habilidad 4" de="Fähigkeit 4">
+	</string>
+	<string id="IDS_SIDEBAR_Skills5" zh_CN="技能5" en="Skill 5" pt="Habilidade 5" ru="Навык5" tr="Beceri 5" vi="Kỹ năng 5" th="สกิล5" lang_id="Skill 5" ko="스킬5" zh_TW="技能5" ja="スキル5" es="Habilidad 5" de="Fähigkeit 5">
+	</string>
+	<string id="IDS_SIDEBAR_special Skills" zh_CN="特殊技" en="S.Skill" pt="Habilidade especial" ru="Особый навык" tr="Özel Yetenek" vi="Tuyệt kỹ" th="สกิลพิเศษ" lang_id="S.Skill" ko="특수 스킬" zh_TW="特殊技" ja="特殊スキル" es="Habilidad Especial" de="Spezielle Fähigkeit">
+	</string>
+	<string id="IDS_SIDEBAR_Skill switching" zh_CN="技能切换" en="Swap" pt="Mudar os habilidades" ru="Смена навыка" tr="Beceri Değiştirme" vi="Đổi kỹ năng" th="เปลี่ยนสกิล" lang_id="Ganti" ko="스킬 전환" zh_TW="技能切換" ja="スキル変更" es="Intercambio" de="Wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_Spiritual vision" zh_CN="灵视" en="Psionic Vision" pt="Visão Psiônica" ru="Ясновидение" tr="Vizyon" vi="Linh cảm" th="สายตาวิญญาณ" lang_id="Visi Psionic" ko="투시력" zh_TW="靈視" ja="霊視" es="Visión psiónica" de="Psionische Vision">
+	</string>
+	<string id="IDS_SIDEBAR_auxiliary" zh_CN="辅助战斗" en="Assist" pt="Combate auxiliar" ru="Вспомогательный бой" tr="Takviye" vi="Hỗ trợ chiến đấu" th="ช่วยรบ" lang_id="Bantu" ko="보조 전투" zh_TW="輔助戰鬥" ja="バトル援護" es="Ayudar" de="Unterstützung">
+	</string>
+	<string id="IDS_SIDEBAR_interactive" zh_CN="交互" en="Interact" pt="Interagir" ru="Взаимодействие" tr="Etkileşim" vi="Giao đổi" th="สลับ" lang_id="Berinteraksi" ko="인터렉션" zh_TW="交互" ja="機能" es="Interactuar" de="Interagieren">
+	</string>
+	<string id="IDS_SIDEBAR_dodge" zh_CN="闪避" en="Dodge" pt="Desviar" ru="Уклонение" tr="Kaçış" vi="Né tránh" th="หลบหนี" lang_id="Hindar" ko="회피" zh_TW="閃避" ja="回避" es="Dodge" de="Ausweichen">
+	</string>
+	<string id="IDS_SIDEBAR_result" zh_CN="战绩" en="Statistics" pt="Estatisticas de combate" ru="Достижения" tr="Savaş Ganimeti" vi="Chiến tích" th="คะแนนรบ" lang_id="Statistik" ko="전적" zh_TW="戰績" ja="戦績" es="Estadísticas" de="Statistiken">
+	</string>
+	<string id="IDS_SIDEBAR_cancle" zh_CN="取消技能" en="Cancel Skill" pt="Cancelar habilidade" ru="Отменить навык" tr="Yeteneği iptal et" vi="Hủy kỹ năng" th="ยกเลิกสกิล" lang_id="Batalkan Skill" ko="스킬 취소" zh_TW="取消技能" ja="スキルキャンセル" es="Cancelar habilidad" de="Fähigkeit abbrechen">
+	</string>
+	<string id="IDS_SIDEBAR_reload" zh_CN="装弹" en="Reload" pt="Carregar na arma" ru="Перезарядить" tr="Tekrar yükle" vi="Lắp đạn" th="ใส่กระสุน" lang_id="Isi Ulang" ko="폭탄 장착" zh_TW="裝彈" ja="装弾" es="Recargar" de="Nachladen">
+	</string>
+	<string id="IDS_SIDEBAR_heal" zh_CN="治疗" en="Heal" pt="Tratamento" ru="Лечение" tr="Tedavi" vi="Trị liệu" th="รักษา" lang_id="Heal" ko="치료" zh_TW="治療" ja="治療" es="Curar" de="Heilen">
+	</string>
+	<string id="IDS_SIDEBAR_bmob" zh_CN="拆/装炸弹" en="Defuse/Plant Bomb" pt="Desmontar / carregarbomba" ru="Обезвредить/установить бомбу" tr="Bomba sök/yükle" vi="Tháo/Lắp bom" th="หยุด/ติดระเบิด" lang_id="Padamkan/Pasang Bom" ko="폭탄 장착/해제" zh_TW="拆/裝炸彈" ja="爆弾取外/取付" es="Desactivar/cargar bomba" de="Bombe entschärfen /einrichten">
+	</string>
+	<string id="IDS_SIDEBAR_abandon" zh_CN="丢弃炸弹" en="Discard Bomb" pt="Descartar bomba" ru="Выбросить бомбу" tr="Bombayı bırak" vi="Ném bom" th="ทิ้งระเบิด" lang_id="Buang Bom" ko="폭탄 버리기" zh_TW="丟棄炸彈" ja="爆弾遺棄" es="Descartan bomba" de="Bombe verwerfen">
+	</string>
+	<string id="IDS_SIDEBAR_mounts" zh_CN="坐骑" en="Mount" pt="Monte" ru="Средство передвижения" tr="Binek" vi="Thú cưỡi" th="ขี่" lang_id="Naik" ko="탈것" zh_TW="坐騎" ja="乗り物" es="Montar" de="Reittier">
+	</string>
+	<string id="IDS_SIDEBAR_design" zh_CN="设计中心" en="Design Center" pt="Centro de Design" ru="Центр проектов" tr="Ayar Merkezi" vi="Trung tâm thiết kế" th="ศูนย์ออกแบบ" lang_id="Pusat Desain" ko="설계 센터" zh_TW="設計中心" ja="デザインセンター" es="Centro de Diseño" de="Designcenter">
+	</string>
+	<string id="IDS_SIDEBAR_free" zh_CN="自由换装" en="Freestyle Dress-up" pt="Troca de roupa Estilo livre" ru="Смена одежды" tr="Serbest Kostüm Değiştirme" vi="Trang phục tự do" th="ปรับแต่งอิรสะ" lang_id="Pakaian Bebas" ko="자유형 드레스 업" zh_TW="自由換裝" ja="自由に着替" es="Vestido libre" de="Freies Ankleiden">
+	</string>
+	<string id="IDS_SIDEBAR_heart" zh_CN="心之门" en="Heart Gate" pt="Portão do coração" ru="Врата сердца" tr="Kalp Kapısı" vi="Cổng trái tim" th="ประตูหัวใจ" lang_id="Gerbang Hati" ko="하트 게이트" zh_TW="心之門" ja="心の扉" es="Puerta del Corazón" de="Herztor">
+	</string>
+	<string id="IDS_SIDEBAR_train" zh_CN="凝练馆" en="Studio of Condensation" pt="Estúdio da Condensação" ru="Зал усовершенствования" tr="Arıtma Salonu" vi="Phòng đào tạo" th="หอหนิงเหลียน" lang_id="Studio Kondensasi" ko="연습실" zh_TW="凝練館" ja="精練場" es="Estudio de condensación" de="Verfeinerungsstudio">
+	</string>
+	<string id="IDS_SIDEBAR_begin" zh_CN="开始旅程" en="Start Adventure" pt="Comece a aventura" ru="Начать путешествие" tr="Yolculuğa başla" vi="Bắt đầu hành trình" th="เริ่มเดินทาง" lang_id="Mulai Petualangan" ko="여정 시작" zh_TW="開始旅程" ja="旅スタート" es="Inicia la aventura" de="Abenteuer starten">
+	</string>
+	<string id="IDS_SIDEBAR_close" zh_CN="武器技能" en="Weapon Skill" pt="Habilidade de arma" ru="Навык оружия" tr="Silah Becerisi" vi="Kỹ năng vũ khí" th="สกิลอาวุธ" lang_id="Skill Senjata" ko="무기 스킬" zh_TW="武器技能" ja="武器スキル" es="Habilidad para las armas" de="Waffenfähigkeit">
+	</string>
+	<string id="IDS_SIDEBAR_speed" zh_CN="加速" en="Accelerate" pt="Acelerar" ru="Ускорение" tr="Hızlandırma" vi="Tăng tốc" th="เพิ่มความเร็ว" lang_id="Percepat" ko="가속" zh_TW="加速" ja="加速" es="Acelerar" de="Beschleunigen">
+	</string>
+	<string id="IDS_SIDEBAR_up" zh_CN="上移" en="Up" pt="Subir" ru="Движение вверх" tr="Taşıyın" vi="Đi lên" th="ขึ้น" lang_id="Atas" ko="아래로 이동" zh_TW="上移" ja="↑移動" es="Arriba" de="Hoch">
+	</string>
+	<string id="IDS_SIDEBAR_down" zh_CN="下移" en="Down" pt="Baixa" ru="Движение вниз" tr="Bırakın" vi="Đi xuống" th="ลง" lang_id="Bawah" ko="위로 이동" zh_TW="下移" ja="↓移動" es="Abajo" de="Runter">
+	</string>
+	<string id="IDS_SIDEBAR_secure" zh_CN="安全移动" en="Move Safely" pt="Movimento seguro" ru="Безопасное передвижение" tr="Güvenli Hareket" vi="Di chuyển an toàn" th="เคลื่อนย้ายอย่างปลอดภัย" lang_id="Bergerak dengan Aman" ko="안전 이동" zh_TW="安全移動" ja="安全移動" es="Mover con seguridad" de="Sicher bewegen">
+	</string>
+	<string id="IDS_SIDEBAR_draw" zh_CN="图纸" en="Blueprint" pt="Desenho" ru="Чертеж" tr="Kroki" vi="Bản vẽ" th="รูปภาพ" lang_id="Cetak Biru" ko="설계도" zh_TW="圖紙" ja="設計図" es="Plan" de="Zeichnung">
+	</string>
+	<string id="IDS_SIDEBAR_setting" zh_CN="设置" en="Settings" pt="Configurar" ru="Настройки" tr="Ayarlar" vi="Cài đặt" th="ตั้งค่า" lang_id="Pengaturan" ko="설정" zh_TW="設置" ja="設定" es="Configuración" de="Einstellungen">
+	</string>
+	<string id="IDS_SIDEBAR_screenshot" zh_CN="截图" en="Screenshot" pt="Captura de tela" ru="Снимок экрана" tr="Ekran Resmi" vi="Chụp hình" th="ถ่ายรูปหน้าจอ" lang_id="Screenshot" ko="캡처" zh_TW="截圖" ja="スクリーンショット" es="Captura de pantalla" de="Screenshot">
+	</string>
+	<string id="IDS_SIDEBAR_adjust" zh_CN="第一/第三视角切换" en="First/Third" pt="Mudar de primeira/Terceira visual" ru="Смена вида от первого/третьего лица" tr="Birinci/Üçüncü Perspektif Değiştirme" vi="Đổi góc nhìn 1/3" th="สลับมุมมองที่1/3" lang_id="Sudut Pandang Pertama/Sudut Pandang Ketiga" ko="제1/제3 시각 전환" zh_TW="第一/第三視角切換" ja="1/3アングル切替" es="Primero/Tercero" de="Erste / dritte Perspektive wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_honjin" zh_CN="本阵" en="Honjin" pt="Honjin" ru="Главная позиция" tr="Mevcut Diziliş" vi="Trận này" th="ค่ายหลัก" lang_id="Honjin" ko="본진" zh_TW="本陣" ja="本陣" es="Honjin" de="Formation">
+	</string>
+	<string id="IDS_SIDEBAR_fight" zh_CN="出战" en="Deploy" pt="Vá a guerra" ru="Вступить в бой" tr="Savaştan çık" vi="Xuất chiến" th="ออกรบ" lang_id="Turunkan" ko="출전" zh_TW="出戰" ja="出陣" es="Desplegar" de="Einsetzen">
+	</string>
+	<string id="IDS_SIDEBAR_warrior" zh_CN="武士" en="Samurai" pt="Guerreiro" ru="Воин" tr="Savaşçı" vi="Võ sĩ" th="ทหาร" lang_id="Samurai" ko="무사" zh_TW="武士" ja="ファイター" es="Samurai" de="Samurai">
+	</string>
+	<string id="IDS_SIDEBAR_fetter" zh_CN="羁绊" en="Fate" pt="Fetter" ru="Напарник" tr="Zincir" vi="Bầu bạn" th="ขัดขวาง" lang_id="Takdir" ko="견제" zh_TW="羈絆" ja="絆" es="Destino" de="Schicksal">
+	</string>
+	<string id="IDS_SIDEBAR_god" zh_CN="神降" en="Befall" pt="Befall" ru="Божественное сошествие" tr="Teslim ol" vi="Thần giáng" th="ค่ายกล" lang_id="Dewa Turun" ko="신강" zh_TW="神降" ja="神降臨" es="Acontecer" de="Gottes Kommen">
+	</string>
+	<string id="IDS_SIDEBAR_shop" zh_CN="商店" en="Shop" pt="Loja" ru="Магазин" tr="Market" vi="Cửa hàng" th="ร้านค้า" lang_id="Toko" ko="상점" zh_TW="商店" ja="ストア" es="Tienda" de="Laden">
+	</string>
+	<string id="IDS_SIDEBAR_full" zh_CN="全屏" en="Fullscreen" pt="Tela cheia" ru="Полный экран" tr="Tam Ekran" vi="Toàn màn hình" th="เต็มจอ" lang_id="Layar Penuh" ko="전체 화면" zh_TW="全屏" ja="フルスクリーン" es="Pantalla completa" de="Vollbild">
+	</string>
+	<string id="IDS_SIDEBAR_information" zh_CN="个人信息" en="Profile" pt="Informação pessoal" ru="Личная информация" tr="Kişisel Bilgi" vi="Thông tin cá nhân" th="ข้อมูลส่วนตัว" lang_id="Profil" ko="개인 정보" zh_TW="個人資訊" ja="個人情報" es="Perfil" de="Profil">
+	</string>
+	<string id="IDS_SIDEBAR_warehouse" zh_CN="仓库" en="Warehouse" pt="Armazém" ru="Склад" tr="Depo" vi="Kho" th="โกดัง" lang_id="Gudang" ko="창고" zh_TW="倉庫" ja="倉庫" es="Almacén" de="Lager">
+	</string>
+	<string id="IDS_SIDEBAR_relax" zh_CN="休闲" en="Casual" pt="Casual" ru="Отдых" tr="Dinlenme" vi="Rảnh rỗi" th="พักผ่อน" lang_id="Kasual" ko="레저" zh_TW="休閒" ja="休み" es="Casual" de="Casual">
+	</string>
+	<string id="IDS_SIDEBAR_rescruit" zh_CN="招募" en="Recruit" pt="Recrutar" ru="Наем" tr="Çağırma" vi="Chiêu mộ" th="รับสมัคร" lang_id="Rekrut" ko="모집" zh_TW="招募" ja="募集" es="Reclutar" de="Rekrutieren">
+	</string>
+	<string id="IDS_SIDEBAR_partner" zh_CN="伙伴" en="Partner" pt="Parceiro" ru="Партнер" tr="Dost" vi="Đồng đội" th="เพื่อน" lang_id="Partner" ko="파트너" zh_TW="夥伴" ja="仲間" es="Socio" de="Partner">
+	</string>
+	<string id="IDS_SIDEBAR_challenge" zh_CN="挑战" en="Challenge" pt="Desafio" ru="Испытание" tr="Savaş" vi="Khiêu chiến" th="ท้าทาย" lang_id="Tantang" ko="도전" zh_TW="挑戰" ja="挑戦" es="Desafío" de="Herausforderung">
+	</string>
+	<string id="IDS_SIDEBAR_explore" zh_CN="探索" en="Explore" pt="Explorar" ru="Поиск" tr="Keşif" vi="Khám phá" th="สำรวจ" lang_id="Eksplorasi" ko="탐색" zh_TW="探索" ja="探索" es="Explorar" de="Erkunden">
+	</string>
+	<string id="IDS_SIDEBAR_mail" zh_CN="邮件" en="Mail" pt="Correio" ru="Почта" tr="Posta" vi="Thư" th="เมล" lang_id="Surat" ko="메일" zh_TW="郵件" ja="メール" es="E-mail" de="Nachricht">
+	</string>
+	<string id="IDS_SIDEBAR_stronger" zh_CN="变强" en="More Power!" pt="Mais poder!" ru="Стать сильнее" tr="Daha güçlü ol" vi="Mạnh lên" th="เพิ่มความแข็งแกร่ง" lang_id="Lebih Kuat" ko="강화" zh_TW="變強" ja="強化" es="Más poder" de="Mehr Kraft!">
+	</string>
+	<string id="IDS_SIDEBAR_general" zh_CN="武将" en="Hero" pt="Herói" ru="Командир" tr="General" vi="Võ tướng" th="แม่ทัพ" lang_id="Jenderal" ko="무장" zh_TW="武將" ja="武将" es="Héroe" de="Held">
+	</string>
+	<string id="IDS_SIDEBAR_troops" zh_CN="部队" en="Troops" pt="Tropas" ru="Войско" tr="Birlik" vi="Bộ đội" th="กองทัพ" lang_id="Pasukan" ko="부대" zh_TW="部隊" ja="部隊" es="Tropas" de="Truppen">
+	</string>
+	<string id="IDS_SIDEBAR_tavren" zh_CN="酒馆" en="Tavern" pt="Taberna" ru="Таверна" tr="Meyhane" vi="Quán rượu" th="โรงแรม" lang_id="Kedai" ko="주막" zh_TW="酒館" ja="バー" es="Taberna" de="Taverne">
+	</string>
+	<string id="IDS_SIDEBAR_battleground" zh_CN="战场" en="Battlefield" pt="Campo de combate" ru="Поле боя" tr="Savaş Alanı" vi="Chiến trường" th="สนามรบ" lang_id="Medan Perang" ko="전장" zh_TW="戰場" ja="戦場" es="Batalla" de="Schlachtfeld">
+	</string>
+	<string id="IDS_SIDEBAR_result1" zh_CN="战绩/切换角色" en="Statistics/Switch Character" pt="Estatisticas de combate/ Mudar personagem" ru="Достижения / смена персонажа" tr="Karakteri kaydet/değiştir" vi="Chiến tích/Đổi nhân vật" th="คะแนนรบ/เปลี่ยนตัวละคร" lang_id="Statistik/Ganti Karakter" ko="전적/캐릭터 전환" zh_TW="戰績/切換角色" ja="戦績/キャラ切替" es="Estadísticas/Cambiar carácter" de="Statistiken / Charakter wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_SMARTKEY1" zh_CN="智能交互(开箱/跳伞/夺取奖杯/拆/装炸弹等)" en="Smart Interact (Open box/Parachute/Grab trophy/Defuse bomb/Plant bomb/etc.)" pt="Interação inteligente(Abrir caixa / Pára-quedas / Troféu de agarrar / Desmontar / carregar bomba...)" ru="Умное взаимодействие (открывание / прыжки с парашютом / получение трофеев / обезвреживание/установка бомб и т.д.)" tr="Akıllı etkileşim (Paketten çıkarma/paraşütle atlama/kupa kazanma/bombaları sökme/yükleme vb.)" vi="Giao đổi thông minh (Mở rương/Nhảy dù/Cướp cúp/Tháo/Lắp bom v.v...)" th="เปลี่ยนทักษะ (เปิดกล่อง/กระโดดร่ม/จับถ้วยรางวัล/หยุด/ติดระเบิด เป็นต้น)" lang_id="Interaksi Pintar (Buka Kotak/Parasut/Ambil Trofi/Padamkan Bom/Pasang Bom/dll.)" ko="스마트 인터렉션(상자 오픈/낙하/트로피 탈취/폭탄 장착/해제 등)" zh_TW="智能交互(開箱/跳傘/奪取獎盃/拆/裝炸彈等)" ja="スマート機能（箱開封/落下傘/優勝カップ奪取/爆弾取付/取外等）" es="Interacción inteligente (Desempacar/Paracaidismo/Tomar trofeo /Descargar/Cargar bomba etc.)" de="Intelligente Interaktion (Truhe öffnen / Fallschirm / Tophäe nehmen / Bombe entschärfen / einrichten / usw.)">
+	</string>
+	<string id="IDS_SIDEBAR_Save" zh_CN="救人" en="Rescue" pt="Resgatar" ru="Спасать" tr="İnsanları kurtar" vi="Cứu người" th="ช่วยคน" lang_id="Selamatkan" ko="사람 구하기" zh_TW="救人" ja="人助け" es="Rescate" de="Retten">
+	</string>
+	<string id="IDS_SIDEBAR_MOVECOD" zh_CN="移动" en="Move" pt="Mover" ru="Движение" tr="İlerle" vi="Di chuyển" th="เคลื่อนที่" lang_id="Gerak" ko="이동" zh_TW="移動" ja="移動" es="Mover" de="Bewegen">
+	</string>
+	<string id="IDS_SIDEBAR_FIRECOD" zh_CN="开火/放置盾牌/上飞" en="Fire/Deploy Shield/Pitch Up" pt="Disparar/Implementar Escudo/Aumentar Tom" ru="Стрельба/выставить щит/взглянуть вверх" tr="Ateş et/ kalkan aç/a" vi="Ngọn lửa/Đặt lá khiên/Bay lên" th="ยิง,/กางโล่/เพิ่มระดับเสียง" lang_id="Serbu/pakai pelindung/arahkan naik" ko="사격/쉴드 전개/피치 올리기" zh_TW="開火/放置盾牌/上飛" ja="発射/盾放置/↑飛行" es="Fuego / Desplegar escudo / Vuela hacia arriba" de="Schießen / Schild einsetzen / Aufstellen">
+	</string>
+	<string id="IDS_SIDEBAR_BOWCOD" zh_CN="取消释放弓箭/盾牌" en="Cancel Bow Draw/Shield" pt="Cancelar Saque De Arco/Escudo" ru="убрать лук/щит" tr="yayı bırakma/kalkan" vi="Hủy bỏ cung/khiên" th="ยกเลิกการง้างธนู/กางโล่" lang_id="batalkan tarikan busur/pelindung" ko="활시위 당김 취소/쉴드" zh_TW="取消釋放弓箭/盾牌" ja="弓/盾発動キャンセル" es="Cancelar arco / escudo" de="Bogen / Schild abbrechen">
+	</string>
+	<string id="IDS_SIDEBAR_AIMCOD" zh_CN="瞄准/取消释放弓箭/下飞" en="Aim/Cancel Bow Draw/Pitch Down" pt="Mirar/Cancelar Saque De Arco/Reduzir Tom" ru="прицелиться/убрать лук/взглянуть вниз" tr="nişan/yayı bırakma/bırakma" vi="Nhắm/Hủy bỏ cung/Bay xuống" th="เล็ง,/ยกเลิกการง้างธนู/ลดระดับเสียง" lang_id="bidik/batalkan tarikan busur/arahkan turun" ko="조준/활시위 당김 취소/피치 내림" zh_TW="瞄準/取消釋放弓箭/下飛" ja="照準/弓発動キャンセル/↓飛行" es="Apuntar / Cancelar arco/ Vuela hacia abajo" de="Zielen / Bogen abbrechen / Abstellen">
+	</string>
+	<string id="IDS_SIDEBAR_JUMPCOD" zh_CN="跳跃/上潜" en="Jump/Surface" pt="Pular/superfície" ru="Прыжок/поверхность" tr="Atla/yüzeye çık" vi="Nhảy/Lặn lên" th="กระโดด/ขึ้นผิวน้ำ" lang_id="Lompat/muncul" ko="점프/수면 위로 상승" zh_TW="跳躍/上潛" ja="ジャンプ /↑ダイブ" es="Saltar/Superficie" de="Springen / Tauchen">
+	</string>
+	<string id="IDS_SIDEBAR_CROUCHCOD" zh_CN="下蹲/下潜/长按趴下/滑铲" en="Crouch/Dive/Hold To Prone/Slide (While Running)" pt="Agachar/mergulhar/segure para ficar de bruços/deslizar (enquanto corre)" ru="Присесть / нырнуть / долгое нажатие - лечь / подкат" tr="Присесть/вести транспорт/удерживайте/чтобы лечь/скольжение (при беге)" vi="Ngồi xổm/Lặn xuống/Nhấn lâu xuống/Cầu trượt (Trong khi chạy)" th="Çök/dal/yat/kay (koşarken)" lang_id="Merunduk/menyelam/tahan untuk tiarap/sliding (saat lari)" ko="웅크리기/다이빙/길게 눌러서 자세 고정/슬라이딩 (달리는 중)" zh_TW="下蹲/下潛/長按趴下/滑鏟" ja="しゃがむ/↓ダイブ/長押しでうつ伏せ/すくい投げ" es="Agachado/ Bucear / mantener pulsado para agacharse / deslizarse" de="Hocken / Tauchen / Halten, um zu liegen / Rutschen (während des Rennens)">
+	</string>
+	<string id="IDS_SIDEBAR_FREELOOKCOD" zh_CN="自由视角" en="Free" pt="LIVRE" ru="СВОБОДНО" tr="ÜCRETSİZ" vi="Miễn phí" th="FREE" lang_id="FREE" ko="무료" zh_TW="自由視角" ja="フリールック" es="Libre" de="Frei">
+	</string>
+	<string id="IDS_SIDEBAR_SHIFTCOD" zh_CN="奔跑" en="Sprint" pt="Correr" ru="Бег" tr="Hızlı Koş" vi="Chạy" th="วิ่งทันที" lang_id="Berlari cepat" ko="빨리 뛰어" zh_TW="奔跑" ja="走る" es="Correr" de="Rennen">
+	</string>
+	<string id="IDS_SIDEBAR_FRAGCOD" zh_CN="集束炸弹/手榴弹" en="Cluster Grenade/Frag Grenade" pt="Granada de dispersão/Granada de Fragmentação" ru="Кассетная граната/Осколочная граната" tr="Parça Tesirli El Bombası/Parça Tesirli El Bombası" vi="Bom chùm/Lựu đạn" th="Cluster Grenade/Frag Grenade" lang_id="Granat Cluster/Granat Frag" ko="집속탄/세열탄" zh_TW="集束炸彈/手榴彈" ja="爆弾/手榴弾集束" es="Bomba de racimo / granada" de="Streubombe / Handgranate">
+	</string>
+	<string id="IDS_SIDEBAR_STUNCOD" zh_CN="震撼弹" en="Stun Grenade" pt="Granada de Atordoamento" ru="Светошумовая граната" tr="Ses Bombası" vi="Lựu đạn gây choáng" th="ระเบิดสตัน" lang_id="Granat Kejut" ko="스턴 수류탄" zh_TW="震撼彈" ja="スタン弾" es="Bomba de explosión" de="Betäubungsgranate">
+	</string>
+	<string id="IDS_SIDEBAR_SMOKECOD" zh_CN="毒气弹/烟雾弹" en="Nova Gas/Smoke Grenade" pt="Gás Nova/Granada de fumaça" ru="Газовая граната/Дымовая граната" tr="Sinir Gazı/Sis Bombası" vi="Bom xăng/Lựu đạn khói" th="Nova Gas/Smoke Grenade" lang_id="Nova Gas/Granat Asap" ko="노바 가스/연막탄" zh_TW="毒氣彈/煙霧彈" ja="毒ガス弾/発煙弾" es="Bomba de gas / bomba de humo" de="Gasbombe / Rauchbombe">
+	</string>
+	<string id="IDS_SIDEBAR_DETCOD" zh_CN="连环闪光弹/闪光弹" en="Multi-bang/Flashbang" pt="Multiexplosões/Granada de luz" ru="Разрывная/светошумовая граната" tr="Çoklu Patlama/Flaş Bombası" vi="Bom chớp nối tiếp/Bom chớp" th="มัลติแบงก์/Flashbang" lang_id="Granat Kilat" ko="멀티뱅/섬광탄" zh_TW="連環閃光彈/閃光彈" ja="閃光弾連射/閃光弾" es="Mutibomba de destello / Bomba de destello" de="Multi-Bombe / Blitzbombe">
+	</string>
+	<string id="IDS_SIDEBAR_HEMCOD" zh_CN="止血凝胶" en="Hemostatic" pt="Hemostático" ru="Кровоостанавливающее средство" tr="Hemostatik" vi="Cầm máu" th="Hemostatic" lang_id="Hemostatik" ko="지혈제" zh_TW="止血凝膠" ja="止血剤" es="Hemostático" de="Blutstillungsmittel">
+	</string>
+	<string id="IDS_SIDEBAR_FIRSTCOD" zh_CN="急救包" en="First Aid Kit" pt="Kit de primeirossocorros" ru="Аптечка" tr="İlk Yardım Seti" vi="Túi cấp cứu" th="First Aid Kit" lang_id="Kotak Medis" ko="구급상자" zh_TW="急救包" ja="救急箱" es="Botiquín de primeros auxilios" de="Erste-Hilfe-Kasten">
+	</string>
+	<string id="IDS_SIDEBAR_ANACOD" zh_CN="止痛针" en="Adrenaline" pt="Adrenalina" ru="Адреналин" tr="Adrenalin" vi="Tiêm giảm đau" th="Adrenaline" lang_id="Adrenalin" ko="아드레날린" zh_TW="止痛針" ja="痛み止めの注射" es="Adrenalina" de="Adrenalinschub">
+	</string>
+	<string id="IDS_SIDEBAR_MOUSELOCKCOD" zh_CN="鼠标锁定开关" en="Mouse Lock Switch" pt="Bloqueio de Mouse" ru="Блокировка мыши" tr="Fare sabitleme anahtarı" vi="Khóa công tắc bằng chuột" th="ปุ่มล็อคเม้าส์" lang_id="Tombol pengunci mouse" ko="마우스 잠금 스위치" zh_TW="滑鼠鎖定開關" ja="マウスロックスイッチ" es="Interruptor de bloqueo del ratón" de="Maussperrschalter">
+	</string>
+	<string id="IDS_SIDEBAR_FCOD" zh_CN="智能交互(开门/驾驶/跳伞等)" en="Open Doors/Drive/Pick Up/Parachute/Equipment/..." pt="Abrir portas / Dirigir / Coletar / Pular (Paraquedas) / Equipamento /..." ru="Открыть дверь / Управлять / Поднять / Парашют / Инвентарь / ..." tr="Kapı aç / Sür / Topla / Paraşüt / Ekipman / ..." vi="Có thể được sử dụng trong việc mở cửa, Lái xe, Nhảy dù, Nhặt vũ khí và các thao tác khác" th="ใช้สำหรับเปิดประตู/ขับ/กระโดดร่ม/เก็บอุปกรณ์" lang_id="Buka pintu/Kemudi/Ambil/Parasut/Peralatan/..." ko="문 열림,운전,스카이다이빙,피킹 장비 등의 조작을 사용할 수 있습니다." zh_TW="智能交互(開門/駕駛/跳傘等)" ja="スマート機能（扉開閉/運転/落下傘等）" es="Interacción ingeligente ( Abrir /Conducir /Paracaidismo, etc.)" de="Intelligente Interaktion (Tür öffnen / Fahren / Fallschirm usw.)">
+	</string>
+	<string id="IDS_SIDEBAR_PAUSE1" zh_CN="暂停" en="Pause" pt="Pausar" ru="Пауза" tr="Durdur" vi="Tạm Dừng" th="หยุด " lang_id="Jeda" ko="일시 정시" zh_TW="暫停" ja="一時停止" es="Pausa" de="Pause">
+	</string>
+	<string id="IDS_SIDEBAR_PAUSE12" zh_CN="充值后可能会出现钻石不能实时到账显示的问题，实际已到账，重启游戏即可显示" en="Pause" pt="Pausar" ru="Пауза" tr="Durdur" vi="Tạm Dừng" th="หยุด " lang_id="Jeda" ko="일시 정시" zh_TW="暫停" ja="一時停止" es="Pausa" de="Pause">
+	</string>
+	<string id="IDS_SIDEBAR_Jump1" zh_CN="跳跃">
+	</string>
+	<string id="IDS_SIDEBAR_Jump3" zh_CN="轻功">
+	</string>
+	<string id="IDS_SIDEBAR_Transfer" zh_CN="变身">
+	</string>
+	<string id="IDS_SIDEBAR_GUN" zh_CN="开枪">
+	</string>
+	<string id="IDS_SIDEBAR_LOCK" zh_CN="锁定/解锁鼠标（战斗时锁定鼠标体验更佳）">
+	</string>
+	<string id="IDS_SIDEBAR_MOVE" zh_CN="控制人物移动">
+	</string>
+	<string id="IDS_SIDEBAR_ATTACK2" zh_CN="普通攻击B">
+	</string>
+	<string id="IDS_SIDEBAR_ATTACK1" zh_CN="普通攻击A">
+	</string>
+	<string id="IDS_SIDEBAR_choise" zh_CN="可在右上方[键位设置]中切换智能键位模式">
+	</string>
+	<string id="IDS_SIDEBAR_FIRE1" zh_CN="开火/近战攻击" en="Fire/Melee Attack" pt="PausarAtirar/Ataque Corpo a Corpo" ru="Начало военных действий/удар ближнего боя" tr="Ateş/Yakın Dövüş Saldırısı" vi="Bật hỏa lực/Công kích cận chiến" th="ยิง/โจมตีระยะประชิด " lang_id="Tembak/Serangan jarak dekat" ko="발포/근접전" zh_TW="開火/近戰攻擊" ja="射撃/近接攻撃" es="Ataque de Disparo/Pelea" de="Feuer/Nahkampf">
+	</string>
+	<string id="IDS_SIDEBAR_AIM1" zh_CN="瞄准/开镜" en="Aim/Sight" pt="Mirar/Scope" ru="Прицеливание/прицел" tr="Nişan/Görüş" vi="Ngắm chuẩn/Mở ống ngắm" th="เล็ง/ลุย " lang_id="Keker/Buka zoom" ko="조준/겨냥" zh_TW="瞄準/開鏡" ja="照準/スコープ" es="Apuntar/Mirar" de="Zielen/Sehen">
+	</string>
+	<string id="IDS_SIDEBAR_JUMP2" zh_CN="跳跃/攀爬" en="Jump/Climb" pt="Pular/Escalar" ru="Прыжок/карабканье" tr="Atlama/Tırmanma" vi="Nhảy bật/Leo trèo" th="กระโดด/ปีน " lang_id="Lompat/Panjat" ko="점프하기/오르기" zh_TW="跳躍/攀爬" ja="ジャンプ/登る" es="Saltar/Subir" de="Springen/Klettern">
+	</string>
+	<string id="IDS_SIDEBAR_SQUAT" zh_CN="下蹲/滑铲" en="Squat/Slide" pt="Abaixar/Escorregar" ru="Приседание/перемещение по земле" tr="Çökme/Kayma" vi="Ngồi xổm/Trượt quét" th="หมอบ/สไลด์ " lang_id="Jongkok/Seluncur" ko="쪼그려앉기/슬라이드" zh_TW="下蹲/滑鏟" ja="しゃがむ/スライディング" es="Agacharse/Deslizar" de="Hocken/Rutschen">
+	</string>
+	<string id="IDS_SIDEBAR_SMART" zh_CN="智能交互（打开拾取列表/打开死亡盒子/开关门/跳伞等）" en="Smart Interaction (open pickup list/open death box/open or close door/parachute etc.)" pt="Ação Inteligente (Abrir Opções/Abrir Caixa da Morte/Abrir ou Fechar Porta/Paraquedas, etc.)" ru="Интеллектуальное взаимодействие (открытие списка вещей/открытие коробки смерти/открывание и закрывание двери/прыжок с парашютом и др.)" tr="Akıllı Etkileşim (alma listesini aç/ölüm kutusunu aç/kapıyı/paraşütü aç veya kapat vb.)" vi="Trao đổi thông minh (Mở nhận danh sách/Mở Hộp Tử Vong/Nhảy dù)" th="การโต้ตอบอัจฉริยะ（เปิดรายการของที่เก็บได้/เปิดกล่องมรณะ/เปิดปิดประตู/กระโดดร่ม เป็นต้น） " lang_id="Interaksi AI (buka daftar ambil/buka kotak kematian/buka atau tutup pintu/parasut, dll.)" ko="스마트 상호작용(픽업 목록 열기/데스 박스 열기/문 열고 닫기/낙하산 등)" zh_TW="智能交互（打開拾取列表/打開死亡盒子/開關門/跳傘等）" ja="スマートキー（拾ったリストを開く/デスボックスを開く/ドアを開ける/パラシュートを開くなど）" es="Interacción Inteligente (abrir lista de recogida/abrir caja de muerte/abrir o cerrar puerta/paracaídas, etc.)" de="Intelligente Interaktion (Abholliste öffnen/Todeskiste öffnen/Tür öffnen oder schließen/Fallschirm usw.)">
+	</string>
+	<string id="IDS_SIDEBAR_BACK" zh_CN="背包" en="Backpack" pt="Mochila" ru="Мешок" tr="Sırt çantası" vi="Túi đồ" th="เป้สะพายหลัง " lang_id="Ransel" ko="배낭" zh_TW="背包" ja="バッグ" es="Mochila" de="Rucksack">
+	</string>
+	<string id="IDS_SIDEBAR_TACTICAL" zh_CN="战术技能" en="Tactical Skill" pt="Habilidade Tática" ru="Тактические умения" tr="Taktik Beceri" vi="Kỹ năng chiến thuật" th="สกิลกลยุทธ์ " lang_id="Skill perang" ko="전술 기술" zh_TW="戰術技能" ja="戦術スキル" es="Habilidad Táctica" de="Taktisches Geschick">
+	</string>
+	<string id="IDS_SIDEBAR_UITIMATE" zh_CN="终极技能" en="Ultimate Skill" pt="Habilidade Ult" ru="Суперспособность" tr="Nihai Beceri" vi="Kỹ năng cuối cùng" th="สกิลสูงสุด " lang_id="Skill pamungkas" ko="궁극 기술" zh_TW="終極技能" ja="究極スキル" es="Habilidad Definitiva" de="Ultimate Fähigkeit">
+	</string>
+	<string id="IDS_SIDEBAR_MARK" zh_CN="标记" en="Mark" pt="Marcar" ru="Метка" tr="İşaretle" vi="Ký hiệu" th="สัญลักษณ์ " lang_id="Tanda" ko="마크" zh_TW="標記" ja="マーク" es="Marca" de="Markieren">
+	</string>
+	<string id="IDS_SIDEBAR_SWITCH" zh_CN="切换视角" en="Switch Perspectives" pt="Trocar Perspectiva" ru="Переключение угла обзора" tr="Bakış Açısı Değiştir" vi="Thay đổi góc nhìn" th="เปลี่ยนมุมมอง " lang_id="Ganti sudut pandang" ko="시각 전환" zh_TW="切換視角" ja="視点切替" es="Cambiar Perspectivas" de="Perspektive wechseln">
+	</string>
+	<string id="IDS_SIDEBAR_GRENADE" zh_CN="装备手雷" en="Equip Grenade" pt="Equipar Granada" ru="Снаряжение гранат" tr="El bombası al" vi="Trang bị thủ lôi" th="ติดระเบิดมือ " lang_id="Pakai granat" ko="수류탄 장착" zh_TW="裝備手榴彈" ja="グレネード装備" es="Equipar Granada" de="Granate ausrüsten">
+	</string>
+	<string id="IDS_SIDEBAR_MEDICAL" zh_CN="使用医疗品" en="Use Medical Item" pt="Usar Cura" ru="Использование медицинского изделия" tr="Tıbbi Ürün Kullan" vi="Sử dụng đồ y tế" th="ใช้เวชภัณฑ์ " lang_id="Pakai item obat" ko="의료 아이템 사용" zh_TW="使用醫療品" ja="医療品を使用" es="Usar Artículo Médico" de="Medizinischen Gegenstand verwenden">
+	</string>
+	<string id="IDS_SIDEBAR_MICRO" zh_CN="使用麦克风" en="Use Microphone" pt="Usar Microfone" ru="Использование микрофона" tr="Mikrofon Kullan" vi="Sử dụng microphone" th="ใช้ไมโครโฟน " lang_id="Pakai mikrofon" ko="마이크 사용" zh_TW="使用麥克風" ja="マイクを使用" es="Usar Micrófono" de="Mikrofon verwenden">
+	</string>
+	<string id="IDS_SIDEBAR_EMOJI" zh_CN="使用表情按钮" en="Use Emoji Button" pt="Botão de Uso de Emote" ru="Использование кнопки выражения лица" tr="Emoji Düğmesini Kullan" vi="Sử dụng nút Biểu cảm" th="ใช้ปุ่มอิโมจิ " lang_id="Pakai tombol emoji" ko="이모지 버튼 사용" zh_TW="使用表情按鈕" ja="エモートボタンを使用" es="Usar Botón Emoji" de="Emoji-Taste verwenden">
+	</string>
+	<string id="IDS_SIDEBAR_Medicine" zh_CN="吃药">
+	</string>
+	<string id="IDS_SIDEBAR_Medicine1" zh_CN="血药">
+	</string>
+	<string id="IDS_SIDEBAR_Medicine2" zh_CN="蓝药">
+	</string>
+	<string id="IDS_SIDEBAR_Skills5" zh_CN="神威技">
+	</string>
+	<string id="IDS_SIDEBAR_Menu" zh_CN="菜单">
+	</string>
+	<string id="IDS_SIDEBAR_choise1" zh_CN="可在右上方[键位设置]中切换WASD行走模式">
+	</string>
+	<string id="IDS_SIDEBAR_MOVE1" zh_CN="角色移动">
+	</string>
+	<string id="IDS_SIDEBAR_Roll" zh_CN="翻滚">
+	</string>
+	<string id="IDS_SIDEBAR_Roll1" zh_CN="闪躲">
+	</string>
+	<string id="IDS_SIDEBAR_Sprint" zh_CN="冲刺">
+	</string>
+	<string id="IDS_SIDEBAR_RELOAD1" zh_CN="暗器">
+	</string>
+	<string id="IDS_SIDEBAR_UITIMATE1" zh_CN="下坠">
+	</string>
+	<string id="IDS_SIDEBAR_USEEQUIPMENT1" zh_CN="切镜头">
+	</string>
+	<string id="IDS_SIDEBAR_CAR" zh_CN="坐骑">
+	</string>
+	<string id="IDS_SIDEBAR_SMART1" zh_CN="智能交互">
+	</string>
+	<string id="IDS_SIDEBAR_Skills" zh_CN="技能">
+	</string>
+	<string id="IDS_SIDEBAR_Skills6" zh_CN="珍兽技">
+	</string>
+	<string id="IDS_SIDEBAR_TEAE" zh_CN="队伍">
+	</string>
+	<string id="IDS_SIDEBAR_CLUB" zh_CN="帮会">
+	</string>
+	<string id="IDS_SIDEBAR_Item" zh_CN="使用道具">
+	</string>
+	<string id="IDS_SIDEBAR_Resetting" zh_CN="重置">
+	</string>
+	<string id="IDS_SIDEBAR_LOCK1" zh_CN="锁定/解锁视角">
+	</string>
+	<string id="IDS_SIDEBAR_PING" zh_CN="信号">
+	</string>
+	<string id="IDS_SIDEBAR_Change" zh_CN="您可在[设置]中切换高帧率模式，体验更佳~">
+	</string>
+	<string id="IDS_SIDEBAR_Change1" zh_CN="您可在游戏[设置]中自定义自己的键位">
+	</string>
+	<string id="IDS_SIDEBAR_Mix" zh_CN="止血凝胶/急救包/止痛针/护甲板">
+	</string>
+</Language>
