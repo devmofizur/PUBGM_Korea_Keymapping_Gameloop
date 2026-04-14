@@ -22,10 +22,10 @@ namespace Keymapping
 
 
         public static api KeyAuthApp = new api(
-    name: "Keymapping", // Application Name
-    ownerid: "gvqYzBJJvK", // Owner ID
-    secret: "214c88f96940adce6cb16e74da6bca74c8c4e95f07c5ad3ebf17eb8b89e47972", // Application Secret
-    version: "3.71" // Application Version /*
+    name: "", // Application Name
+    ownerid: "", // Owner ID
+    secret: "", // Application Secret
+    version: "" // Application Version /*
                    //path: @"Your_Path_Here" // (OPTIONAL) see tutorial here https://www.youtube.com/watch?v=I9rxt821gMk&t=1s
 );
 
