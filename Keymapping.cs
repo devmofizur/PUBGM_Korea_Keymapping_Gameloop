@@ -190,7 +190,7 @@ namespace Keymapping
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
 
-            Process.Start("https://discord.gg/DqzbJbMAms");
+            //Process.Start("https://discord.gg/");
 
             
             status.Image = Resources.KR_SUCCESS;
